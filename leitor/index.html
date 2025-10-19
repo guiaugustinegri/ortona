@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ortona - Leitor Digital</title>
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Fontes do sistema para tema militar -->
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-content">
+            <div class="book-info">
+                <h1 class="book-title">Ortona</h1>
+                <p class="book-subtitle">A Batalha que Mudou Tudo</p>
+            </div>
+            <div class="header-controls">
+                <div class="header-nav">
+                    <button id="header-prev-chapter" class="header-nav-button" title="Capítulo anterior" disabled>
+                        <span>Anterior</span>
+                    </button>
+                    <button id="header-next-chapter" class="header-nav-button" title="Próximo capítulo">
+                        <span>Próximo</span>
+                    </button>
+                </div>
+                <div class="header-utils">
+                    <button id="reload-chapter" class="reload-button" title="Recarregar capítulo">↻</button>
+                    <button id="theme-toggle" class="theme-toggle" title="Alternar tema">
+                        <span class="theme-icon">L</span>
+                    </button>
+                    <button id="font-size-decrease" class="font-control" title="Diminuir fonte">A-</button>
+                    <button id="font-size-increase" class="font-control" title="Aumentar fonte">A+</button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <h3>Capítulos</h3>
+            <button id="sidebar-toggle" class="sidebar-toggle">×</button>
+        </div>
+        <nav class="chapter-nav">
+            <div class="progress-bar">
+                <div class="progress-fill" id="progress-fill"></div>
+            </div>
+            <ul class="chapter-list" id="chapter-list">
+                <!-- Capítulos serão carregados dinamicamente -->
+            </ul>
+        </nav>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="reader-container">
+            <!-- Loading -->
+            <div id="loading" class="loading">
+                <div class="loading-spinner"></div>
+                <p>Carregando capítulo...</p>
+            </div>
+
+            <!-- Chapter Content -->
+            <article id="chapter-content" class="chapter-content">
+                <div class="chapter-header">
+                    <h1 id="chapter-title" class="chapter-title"></h1>
+                    <div class="chapter-meta">
+                        <span id="chapter-number" class="chapter-number"></span>
+                    </div>
+                </div>
+                <div id="chapter-text" class="chapter-text">
+                    <!-- Conteúdo do capítulo será inserido aqui -->
+                </div>
+            </article>
+
+            <!-- Navigation -->
+            <nav class="chapter-navigation">
+            <button id="prev-chapter" class="nav-button prev-button" disabled>
+                <span>Anterior</span>
+            </button>
+                <div class="nav-info">
+                    <span id="current-chapter-info">Capítulo 1 de 17</span>
+                </div>
+                <button id="next-chapter" class="nav-button next-button">
+                    <span>Próximo</span>
+                </button>
+            </nav>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p>&copy; 2025 Ortona - Romance Histórico</p>
+            <div class="footer-links">
+                <a href="#" id="bookmark-toggle">Marcar página</a>
+                <a href="#" id="share-chapter">Compartilhar</a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="js/reader.js"></script>
+</body>
+</html>

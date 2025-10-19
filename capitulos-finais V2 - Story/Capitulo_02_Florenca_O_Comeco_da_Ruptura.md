@@ -26,7 +26,7 @@ Lorenzo aprendeu rápido a sobreviver ali: falar pouco, observar sempre e nunca 
 
 Mas o silêncio não apagava o que ele sentia — só deixava mais forte.
 
-### 💔 **A Desilusão**
+### **A Desilusão**
 
 Ele já tinha acreditado no discurso do governo. Tinha acreditado no papel do exército. Tinha acreditado que a guerra era por honra, pela Itália, pela liberdade. Mentiras bem contadas soam como verdade no começo.
 
@@ -38,9 +38,9 @@ Ele já tinha acreditado no discurso do governo. Tinha acreditado no papel do ex
 
 Foi ali que Lorenzo entendeu algo que nunca mais esqueceu:
 
-> **A guerra não tinha lados certos — tinha lados cegos.**
+**A guerra não tinha lados certos — tinha lados cegos.**
 
-### 🌳 **O Despertar**
+###  **O Despertar**
 
 Nesse dia, ao fim do turno, ele caminhou sozinho até uma pequena praça ao lado do rio Arno. Sentou-se num banco de pedra e ficou olhando pessoas passarem, cada uma sobrevivendo à sua maneira. Foi então que algo simples aconteceu — e mudou tudo.
 

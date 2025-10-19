@@ -367,7 +367,7 @@ Só via Julian.
 
 *Julian sacrificando tudo.*
 
-James tinha feito missões difíceis antes. Tinha perdido homens antes. No treinamento no Canadá, três recrutas morreram em exercício de inverno.
+James tinha feito missões difíceis antes. Tinha perdido homens antes. Miller tinha visto metade de sua unidade morrer em El Alamein. No treinamento no Canadá, três recrutas morreram em exercício de inverno.
 
 Mas sempre conseguira separar.
 

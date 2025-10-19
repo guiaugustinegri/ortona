@@ -208,7 +208,7 @@ Ninguém respondeu. Porque todos sabiam a resposta:
 
 *Quantos forem necessários.*
 
-James, mesmo sem entender italiano, leu a tensão. Giovanna traduziu em fragmentos. Ele entendeu o essencial:
+James, mesmo sem entender italiano, leu a tensão. Lorenzo traduziu em fragmentos. Ele entendeu o essencial:
 
 **Execução. Inocente. Aviso.**
 

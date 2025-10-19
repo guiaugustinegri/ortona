@@ -420,7 +420,7 @@ Lorenzo entendeu.
 
 — **Yes!** — James bateu na pedra. — This is it! Route for tanks! We blow barriers, tanks enter, regiment follows!
 
-Silêncio. Depois Giovanna falou:
+Silêncio. Depois Lorenzo falou:
 
 — Mas a gente não tem explosivos suficientes pra—
 

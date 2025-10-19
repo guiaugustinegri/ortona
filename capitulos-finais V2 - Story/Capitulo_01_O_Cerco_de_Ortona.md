@@ -12,7 +12,7 @@ As ruas estreitas, antes cheias de vida, agora são vigiadas por olhos estrangei
 
 Na praça central, uma bandeira nazista tremula no alto do prédio da prefeitura. É impossível ignorá-la. Ela domina o espaço, desafia quem passa e avisa que a cidade já não pertence aos italianos. Sob ela, soldados fumam, riem alto, empurram moradores para abrir caminho. Alguns até olham com desprezo. Outros já não olham nada – fizeram do ódio um hábito.
 
-> **Mas nenhum deles inspira mais medo que o homem que comanda Ortona: Oberst Heinrich Vogel.**
+*Mas nenhum deles inspira mais medo que o homem que comanda Ortona: Oberst Heinrich Vogel.*
 
 Alto, postura rígida, rosto marcado por uma cicatriz que atravessa a bochecha esquerda como um corte permanente. Os habitantes aprenderam rápido a temer sua presença. Ele não precisa levantar a voz para impor autoridade. Não precisa usar violência constante – basta dar a entender que, quando quiser, será pior do que qualquer um imagina.
 
@@ -22,7 +22,7 @@ Dentro da prefeitura transformada em quartel, Vogel observa a cidade pela janela
 
 E, ainda assim… existe algo que ele não controla.
 
-### 🌱 **A Resistência Nasce**
+### **A Resistência Nasce**
 
 Um rumor. Um sussurro que nasce nos becos, nas igrejas, nos porões de vinícolas antigas. Um movimento que ainda não tem nome, mas que cresce. Ninguém fala nele abertamente. Mas todos sentem. Algo está mudando em Ortona.
 
@@ -36,8 +36,7 @@ E Vogel sabe disso. Ele sente. É por isso que sua expressão nunca relaxa. Porq
 
 Enquanto a noite cai e as patrulhas recomeçam, portas se fecham, luzes se apagam e o medo se instala mais uma vez.
 
-> **Mas, do outro lado do bosque, onde a estrada some no escuro, alguém já está voltando para casa. E quando ele chegar, nada mais será como antes.**
+Mas, do outro lado do bosque, onde a estrada some no escuro, alguém já está voltando para casa. E quando ele chegar, nada mais será como antes.
 
 **Ortona está cercada. O inimigo domina suas ruas. Mas a guerra ainda não terminou. Na verdade… está só começando.**
 
----
