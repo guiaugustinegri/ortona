@@ -1,13 +1,11 @@
-# 📖 **CAPÍTULO 7**
-## A Caçada
+## CAPÍTULO 7 - A Caçada ##
 
-**📍 Local:** Costa italiana  
-**📅 Data:** Horas antes dos tiros no bosque
+📍 Local: Costa italiana  
+📅 Data: Horas antes dos tiros no bosque
 
 ---
 
-### 🌊 **A Chegada**
-
+### A Chegada
 A praia era escura. Nenhuma lua. Nenhuma estrela. Só o som do mar batendo pesado, como se carregasse presságio.
 
 O bote de borracha tocou a areia italiana sem fazer som. Quatro sombras saltaram antes mesmo dele parar por completo. Mãos treinadas puxaram o bote para fora da água, viraram-no de cabeça para baixo e o cobriram com algas e galhos secos. Em menos de dois minutos, não havia rastro de que alguém tinha chegado ali.
@@ -18,8 +16,7 @@ Tenente James Walker olhou ao redor. A costa era rochosa, irregular, perfeita pa
 
 Subiram a encosta rochosa em silêncio. Não eram heróis desembarcando com bandeiras. Eram sombras entrando em território inimigo. O mar batia nas pedras atrás deles, apagando qualquer som de passos. Quando chegaram ao topo da falésia e olharam para trás, a praia já tinha desaparecido na escuridão. Era como se nunca tivessem estado ali.
 
-### 🚶‍♂️ **Dois Dias de Infiltração**
-
+### Dois Dias de Infiltração
 Desceram por vinhedos abandonados. Dormiram em celeiros vazios. Cruzaram estradas só quando o vento soprava a favor. Comeram pouco. Falaram menos ainda.
 
 No primeiro dia, a terra ainda respirava. Vinhedos desorganizados, casas de fazenda isoladas, muros de pedra antigos construídos sem lógica militar. A natureza dominava. Galhos cresciam onde queriam. Ervas invadiam caminhos. Tudo era orgânico, vivo, italiano.
@@ -90,12 +87,10 @@ A partir dali, o ar não voltou ao normal. A terra continuou sufocada. As placas
 
 E, invisível mas presente em cada detalhe, em cada estrutura, em cada corpo — havia o rastro de um homem que transformava cidades em prisões.
 
-**Oberst Heinrich Vogel.**
-
+Oberst Heinrich Vogel.
 Eles ainda não sabiam o nome. Mas já conheciam a assinatura.
 
-### 🎯 **Reconhecimento**
-
+### Reconhecimento
 Caminharam por mais três horas. O sol começou a descer, pintando o céu de laranja e roxo. Cores bonitas demais para uma terra tão feia.
 
 Chegaram perto de Ortona ao cair da tarde. A cidade ainda não era visível, mas a guerra era. O cheiro de diesel e ferro queimado vinha do vento. Estavam atrás das linhas inimigas agora. Qualquer erro significava morte.
@@ -164,7 +159,7 @@ A pedra esperando embaixo.
 
 E então—
 
-**CLANG.**
+CLANG.
 
 O som explodiu no silêncio da tarde como um sino de igreja.
 
@@ -182,8 +177,7 @@ Lá embaixo, vozes em alemão. Portas de jipe se abrindo. Botas tocando o chão.
 
 Tarde demais para evitar. Hora de lidar.
 
-### ⚔️ **A Perseguição**
-
+### A Perseguição
 — HALT!! — uma voz gritou em alemão, perto demais.
 
 Depois outra. Mais perto ainda.
@@ -240,8 +234,7 @@ Ele puxou uma granada de fumaça, arrancou o pino com os dentes e a jogou.
 
 — CORRE!
 
-### 🏃‍♂️ **A Fuga**
-
+### A Fuga
 Eles correram sob tiros. A fumaça deu alguns segundos — só isso.
 
 O mundo virou ruído e caos. Pés batendo na terra. Respiração rasgada. Gritos em alemão. Rajadas cortando o ar.
@@ -272,8 +265,7 @@ Um grito.
 
 Seco. Cortante. Humano.
 
-**— AAAAH!**
-
+— AAAAH!
 O tempo voltou ao normal de uma vez. Como se alguém tivesse ligado o som do mundo de novo.
 
 Smith caiu. O corpo bateu na terra com peso morto. Poeira subiu. Sangue começou a encharcar o casaco dele rápido demais.
@@ -302,11 +294,10 @@ Ele nem olhou.
 
 — NINGUÉM PARA! — disse entre os dentes. — NINGUÉM!
 
-### 🏔️ **O Paredão**
-
+### O Paredão
 Eles continuaram subindo, mas a encosta terminou em um paredão irregular de rochas escuras.
 
-Não era um muro. Era um **labirinto vertical** — fendas que se abriam e fechavam sem lógica, pedras empilhadas em ângulos impossíveis, passagens que terminavam em precipícios súbitos. 
+Não era um muro. Era um labirinto vertical — fendas que se abriam e fechavam sem lógica, pedras empilhadas em ângulos impossíveis, passagens que terminavam em precipícios súbitos. 
 
 Atrás deles, os alemães subiam em linha agressiva, ganhando terreno tiro após tiro. 
 

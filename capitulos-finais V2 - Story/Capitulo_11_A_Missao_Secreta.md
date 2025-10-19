@@ -1,19 +1,16 @@
-# 📖 **CAPÍTULO 11**
-## A Missão Secreta
+## CAPÍTULO 11 - A Missão Secreta ##
 
-**📍 Local:** Bosque de Ortona / Cidade  
-**📅 Data:** 1943, horas após a execução de Giuseppe
+📍 Local: Bosque de Ortona / Cidade  
+📅 Data: 1943, horas após a execução de Giuseppe
 
 ---
 
-### 💀 **Os Dois Laços e o Problema**
-
+### Os Dois Laços e o Problema
 O corpo de Giuseppe Russo ainda balançava na praça.
 
 No bosque, Lorenzo olhava para os rostos ao redor do fogo. Pessoas comuns. Pescadores. Trabalhadores. Todos tinham perdido algo. Família. Dignidade. Esperança.
 
-**Mas algo estava mudando.**
-
+Mas algo estava mudando.
 Na cidade, Vogel apertava o cerco. Executava inocentes. Usava o medo como corda, enrolando-a ao redor da garganta de Ortona, sufocando qualquer pensamento de resistência.
 
 Enquanto o laço da forca ceifava vidas na praça, outro laço se apertava no bosque. Não de corda. De vontade. De pessoas que não tinham mais nada a perder, exceto a chance de fazer algo que importasse.
@@ -32,14 +29,12 @@ James abriu um mapa improvisado sobre uma pedra. Apontou para Ortona. Falou em i
 
 James sabia, era sua missão, regimento canadense invadiria. Era questão de tempo. Mas se avançassem sem informações, seriam aniquilados. As informações prévias que James trouxera eram de fortificações costeiras, posições conhecidas, padrões esperados.
 
-**Mas aquilo não era fortificação. Era fortaleza.**
-
+Mas aquilo não era fortificação. Era fortaleza.
 Vogel transformara Ortona numa armadilha de pedra. Cada rua, cada casa, cada esquina poderia ser uma emboscada. Os canadenses entrariam cegos. E morreriam aos montes.
 
 Seria um massacre.
 
-James precisava de informações. Precisava de um plano. **Agora.**
-
+James precisava de informações. Precisava de um plano. Agora.
 — Need information. Enemy position. Weak point.
 
 Lorenzo franziu a testa. Pensou. Depois respondeu, misturando italiano e inglês quebrado:
@@ -60,8 +55,7 @@ Lorenzo sorriu sem alegria.
 
 ---
 
-### 💔 **A Decisão e o Plano**
-
+### A Decisão e o Plano
 Julian se adiantou.
 
 — Eu vou.
@@ -82,7 +76,7 @@ Julian olhou para o amigo.
 
 — Então eu vou sozinho e você—
 
-— **Não.** — Julian foi firme. — Você é a cara da resistência agora. Enzo, os outros... eles confiam em você. Se você descer e não voltar, acaba. Tudo acaba.
+— Não. — Julian foi firme. — Você é a cara da resistência agora. Enzo, os outros... eles confiam em você. Se você descer e não voltar, acaba. Tudo acaba.
 
 Lorenzo ia protestar, mas Julian continuou:
 
@@ -102,8 +96,7 @@ Respirou fundo. Assentiu devagar.
 
 Julian colocou a mão no ombro de Lorenzo por um segundo. Depois se virou para James e falou em inglês quebrado, mas funcional:
 
-— I go with you. — Apontou para si mesmo, depois para James. — **We two.**
-
+— I go with you. — Apontou para si mesmo, depois para James. — We two.
 James olhou para Julian. Estudou ele por um momento.
 
 Havia algo no jeito como Julian se movia. Econômico. Controlado. Olhos sempre lendo o terreno. Não era instinto de sobrevivência comum — era treinamento. Era disciplina militar sem uniforme.
@@ -112,14 +105,12 @@ James reconhecia aquilo porque carregava o mesmo.
 
 Julian via isso também. Via em James a mesma frieza calculada, a mesma capacidade de separar emoção de missão, a mesma postura que o pai tinha antes da guerra destruí-lo. O pai que voltou das trincheiras era um fantasma. Mas o pai que partiu para a guerra... esse era soldado. Esse sobreviveu porque nunca hesitou.
 
-**James tinha aquela mesma presença.**
-
+James tinha aquela mesma presença.
 Talvez fosse por isso que Julian confiava. Porque reconhecia no canadense o homem que o pai fora um dia.
 
 James assentiu.
 
-— **We two.**
-
+— We two.
 Lorenzo desenhou a planta da prefeitura na terra com graveto.
 
 — Trabalhei lá antes da ocupação. — Apontou os caminhos. — Entrada dos fundos. Escada lateral. Segundo andar. Terceira porta à direita. Escritório de Vogel.
@@ -144,7 +135,7 @@ James assentiu.
 
 Lorenzo ficou de pé, tenso. Olhou para Julian.
 
-— Qualquer problema, vocês voltam. Não importa o mapa. Vocês **voltam**.
+— Qualquer problema, vocês voltam. Não importa o mapa. Vocês voltam.
 
 Julian assentiu.
 
@@ -194,8 +185,7 @@ Não precisavam.
 
 ---
 
-### 🌆 **A Missão na Cidade**
-
+### 🌆 A Missão na Cidade
 Julian saiu primeiro. James atrás, com roupas civis e terra no rosto.
 
 Lorenzo ficou na borda do bosque, observando os dois descerem pela trilha antiga até desaparecerem entre as árvores.
@@ -222,34 +212,29 @@ Porta dos fundos. Velha. Quase invisível.
 
 Julian enfiou a chave. Girou.
 
-**Clique.**
-
+Clique.
 Abriu.
 
 Entraram.
 
 Corredor estreito. Cheiro de papel e medo. Vozes alemãs ecoando longe.
 
-Julian fez sinal: **devagar.**
-
+Julian fez sinal: devagar.
 Avançaram. Escada lateral. Subiram.
 
 Segundo andar.
 
-Porta com placa: **"Oberst Heinrich Vogel"**
-
+Porta com placa: "Oberst Heinrich Vogel"
 Trancada.
 
 Julian tirou arame. Trabalhou rápido. Vinte segundos.
 
-**Clique.**
-
+Clique.
 Entraram.
 
 ---
 
-### 📂 **O Santuário e a Fuga**
-
+### 📂 O Santuário e a Fuga
 A sala era perfeita.
 
 Nenhum papel fora do lugar. Nenhum livro torto. Ordem absoluta.
@@ -276,8 +261,7 @@ James abriu gaveta lateral. Revirou. Empurrou papéis para o lado. Um caiu no ch
 
 Julian abriu segunda gaveta da escrivaninha. Fundo falso. Levantou.
 
-**Mapa.**
-
+Mapa.
 Detalhado. Toda a cidade. Posições marcadas a lápis. Pontos fortificados. Patrulhas. Rotas de suprimento.
 
 — Achei.
@@ -306,8 +290,7 @@ Vozes alemãs.
 
 — Merda — Julian sussurrou.
 
-Apontou: **janela. Fim do corredor.**
-
+Apontou: janela. Fim do corredor.
 Correram silenciosamente.
 
 Janela. Julian abriu.
@@ -320,6 +303,4 @@ James pulou primeiro. Rolou. Julian atrás—
 
 —Porta do escritório de Vogel se abriu no corredor.
 
-**Vogel tinha voltado.**
-
----
+Vogel tinha voltado.

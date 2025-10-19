@@ -447,7 +447,7 @@ body {
 .chapter-text h4 { font-size: 1.1rem; }
 
 .chapter-text p {
-    margin-bottom: 1.5rem;
+    margin-bottom: 0.8rem;
     text-align: justify;
 }
 
@@ -456,10 +456,6 @@ body {
     font-weight: 600;
 }
 
-.chapter-text em {
-    font-style: italic;
-    color: var(--text-secondary);
-}
 
 .chapter-text blockquote {
     border: 2px solid var(--olive-drab);
@@ -480,16 +476,6 @@ body {
         linear-gradient(135deg, var(--khaki-light), var(--bg-secondary));
 }
 
-.chapter-text blockquote::before {
-    content: '◆';
-    position: absolute;
-    left: 1rem;
-    top: 1rem;
-    font-size: 1.2rem;
-    color: var(--olive-drab);
-    opacity: 0.8;
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
-}
 
 .chapter-text blockquote p {
     margin: 0;
@@ -539,25 +525,12 @@ body {
     font-size: 0.95em;
 }
 
-.chapter-text p:has(> strong:first-child)::before {
-    content: '"';
-    position: absolute;
-    left: 0.5rem;
-    top: 0.5rem;
-    font-size: 2rem;
-    color: var(--accent);
-    opacity: 0.3;
-    font-family: serif;
-}
 
 /* Diálogos com travessão */
 .chapter-text p:has(> em:first-child) {
     position: relative;
     margin: 1.2rem 0;
-    padding: 0.8rem 0 0.8rem 2rem;
-    border-left: 3px solid var(--accent-light);
-    color: var(--text-primary);
-    font-style: italic;
+    color: #fff !important;
 }
 
 .chapter-text p:has(> em:first-child) em {
@@ -565,32 +538,17 @@ body {
     font-weight: 500;
     font-style: normal;
     display: block;
-    margin-bottom: 0.3rem;
-    font-size: 0.9em;
 }
 
-.chapter-text p:has(> em:first-child)::before {
-    content: '—';
-    position: absolute;
-    left: 0.5rem;
-    top: 0.8rem;
-    color: var(--accent);
-    font-weight: bold;
-    font-size: 1.2em;
-}
 
 /* Diálogos simples (linhas que começam com -) */
 .chapter-text p:first-child:has(> strong:first-child),
 .chapter-text p:has(> strong:first-child) {
     position: relative;
-    margin: 1.5rem 0;
-    padding: 1.2rem 1.5rem 1.2rem 3rem;
     background: linear-gradient(135deg, var(--bg-primary), var(--bg-secondary));
-    border: 1px solid var(--border);
     border-left: 4px solid var(--accent);
     border-radius: 8px;
     box-shadow: 0 3px 12px var(--shadow);
-    font-family: var(--font-serif);
     line-height: 1.6;
 }
 
@@ -599,22 +557,9 @@ body {
     font-weight: 600;
     font-style: normal;
     display: block;
-    margin-bottom: 0.8rem;
-    font-size: 1em;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
     font-family: var(--font-sans);
 }
 
-.chapter-text p:has(> strong:first-child)::before {
-    content: '◆';
-    position: absolute;
-    left: 1rem;
-    top: 1.2rem;
-    font-size: 1.2rem;
-    opacity: 0.6;
-    color: var(--accent);
-}
 
 /* Diálogos em sequência */
 .chapter-text p:has(> strong:first-child) + p:has(> strong:first-child) {
@@ -623,9 +568,6 @@ body {
     border-radius: 0 0 8px 8px;
 }
 
-.chapter-text p:has(> strong:first-child) + p:has(> strong:first-child)::before {
-    display: none;
-}
 
 /* ===== DIÁLOGOS AUTOMÁTICOS ===== */
 .chapter-text .dialogue {
@@ -658,16 +600,6 @@ body {
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
 }
 
-.chapter-text .dialogue::before {
-    content: '◆';
-    position: absolute;
-    left: 1rem;
-    top: 1.2rem;
-    font-size: 1.2rem;
-    opacity: 0.8;
-    color: var(--olive-drab);
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
-}
 
 .chapter-text .dialogue-simple {
     position: relative;
@@ -676,7 +608,7 @@ body {
     border-left: 3px solid var(--olive-drab);
     color: var(--text-primary);
     font-style: italic;
-    background: var(--khaki-light);
+    background: #1a1a1a;
     border-radius: 0 4px 4px 0;
 }
 
@@ -685,16 +617,6 @@ body {
     font-style: italic;
 }
 
-.chapter-text .dialogue-simple::before {
-    content: '—';
-    position: absolute;
-    left: 0.5rem;
-    top: 0.8rem;
-    color: var(--olive-drab);
-    font-weight: bold;
-    font-size: 1.2em;
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
-}
 
 .chapter-text .thought {
     position: relative;
@@ -732,9 +654,6 @@ body {
     border-radius: 0 0 8px 8px;
 }
 
-.chapter-text .dialogue + .dialogue::before {
-    display: none;
-}
 
 /* ===== NAVIGATION ===== */
 .chapter-navigation {

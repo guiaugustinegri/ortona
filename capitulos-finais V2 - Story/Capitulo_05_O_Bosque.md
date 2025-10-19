@@ -1,8 +1,7 @@
-# 📖 **CAPÍTULO 5**
-## O Bosque
+## CAPÍTULO 5 - O Bosque ##
 
-**📍 Local:** Bosque de Ortona  
-**📅 Data:** 1943
+📍 Local: Bosque de Ortona  
+📅 Data: 1943
 
 ---
 
@@ -22,27 +21,25 @@ Luzes baixas tremulavam entre as ruínas das cabanas. Não eram lanternas de pat
 
 — Reunião — murmurou Lorenzo. — Mais de cinco. Talvez dez.
 
-### 🥷 **A Aproximação**
-
+### A Aproximação
 Não houve plano. Só instinto. Os dois se dividiram sem falar. Julian contornou pelo flanco direito. Lorenzo avançou pela zona alta, onde a mata era mais densa. Eles sabiam exatamente onde pisar, onde evitar ruído, onde o vento carregava o som.
 
 Chegaram antes de serem notados.
 
 Escondidos, observaram.
 
-### 👥 **A Resistência Desorganizada**
-
+### A Resistência Desorganizada
 O grupo não era militar. Eram homens do campo. Caras duras, mãos de quem trabalha. Usavam roupas surradas e olhares desconfiados. Havia um velho com postura rígida, talvez o líder. Um jovem de uns dezenove anos, nervoso e armado demais para quem nunca tinha puxado um gatilho. Dois carregavam pás e cordas — talvez fossem coveiros, talvez saboteiros. Ninguém usava uniforme. Ninguém confiava em ninguém ali.
 
 A luz fraca do fogo dançava nos rostos. Lorenzo precisou apertar os olhos para enxergar melhor na penumbra. E então reconheceu. Não todos, mas alguns. Rostos que tinham cruzado sua infância em Ortona. O velho era Enzo Marino — trabalhava no porto, descarregava barcos desde que Lorenzo era criança. O jovem nervoso... tinha o jeito de caminhar dos Rossi, aquela família grande que morava perto da igreja. A mulher que falava com firmeza... Lorenzo não tinha certeza, mas a voz lembrava a filha do ferreiro.
 
 Eram vizinhos. Conhecidos. Gente da cidade.
 
-E Julian também os viu. Trocou um olhar rápido com Lorenzo. Um olhar que dizia: **eles são nossos**.
+E Julian também os viu. Trocou um olhar rápido com Lorenzo. Um olhar que dizia: eles são nossos.
 
-Mas todos tinham algo em comum: **tinham perdido algo**. Alguns perderam a dignidade — humilhados pelos alemães, tratados como animais. Outros perderam família — filhos levados para trabalhos forçados, esposas mortas em bombardeios, pais executados por "subversão". Outros ainda perderam tudo que tinham — casas saqueadas, terras confiscadas, negócios destruídos. A guerra não poupou ninguém. A ocupação levou tudo que importava.
+Mas todos tinham algo em comum: tinham perdido algo. Alguns perderam a dignidade — humilhados pelos alemães, tratados como animais. Outros perderam família — filhos levados para trabalhos forçados, esposas mortas em bombardeios, pais executados por "subversão". Outros ainda perderam tudo que tinham — casas saqueadas, terras confiscadas, negócios destruídos. A guerra não poupou ninguém. A ocupação levou tudo que importava.
 
-Era isso que os unia. Não era ideologia. Não era política. Era **dor**. Era a certeza de que não tinham mais nada a perder.
+Era isso que os unia. Não era ideologia. Não era política. Era dor. Era a certeza de que não tinham mais nada a perder.
 
 Uma mulher falava, voz baixa. Olhar firme. Parecia ser ouvida.
 
@@ -54,8 +51,7 @@ Uma mulher falava, voz baixa. Olhar firme. Parecia ser ouvida.
 
 Era uma resistência — confusa, nervosa, sem direção. Mas era resistência.
 
-### ⚡ **O Encontro**
-
+### ⚡ O Encontro
 Lorenzo saiu primeiro da mata. Não com armas. Com presença.
 
 — Não parem — disse ele, calmo. — Continuem o que estavam fazendo.
@@ -72,8 +68,7 @@ O silêncio ficou pesado.
 
 Ele caminhou até mais perto do fogo. Todos recuaram meio passo sem perceber.
 
-### 👶 **O Reconhecimento**
-
+### 👶 O Reconhecimento
 — Duas crianças que viviam sujas de terra — disse a mulher, lentamente o reconhecendo. — Que sumiam por horas e voltavam com arranhões e histórias que ninguém acreditava…
 
 Os olhos dela arregalaram.
@@ -100,8 +95,7 @@ Julian não se mexeu.
 
 A tensão aumentou — mas a hostilidade diminuiu. Eles entenderam o recado. Aqueles dois não estavam ali por acaso. E nada no olhar deles dizia mentira.
 
-### 🎯 **A Proposta**
-
+### A Proposta
 Lorenzo olhou ao redor, vendo os rostos cansados, as mãos calejadas, os olhos que ainda tinham fogo. Respirou fundo antes de falar.
 
 — Vocês já estão lutando — disse ele, a voz firme. — E sabem mais desta cidade do que qualquer alemão vai saber. Mas...
@@ -144,8 +138,7 @@ Lorenzo apertou a mão dele. Era firme. Real.
 
 — Seu pai me ensinou a não desistir quando as ondas ficavam altas demais. — Enzo olhou ao redor, para o grupo reunido. — Se vocês são metade do que ele foi... — Fez uma pausa. — Então lutam ao nosso lado.
 
-### 💥 **O Interrompimento**
-
+### 💥 O Interrompimento
 Antes que Lorenzo pudesse responder, um som cortou o bosque.
 
 Tiro.

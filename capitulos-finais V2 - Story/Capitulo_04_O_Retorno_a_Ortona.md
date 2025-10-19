@@ -1,38 +1,27 @@
-# 📖 **CAPÍTULO 4**
-## O Retorno a Ortona
+## CAPÍTULO 4 - O Retorno a Ortona ##
 
-**📍 Local:** Arredores de Ortona  
-**📅 Data:** 1943
+📍 Local: Arredores de Ortona  
+📅 Data: 1943
 
 ---
 
-### 🌙 **A Promessa Lembrada**
-
+### A Promessa Lembrada
 Enquanto caminhavam no escuro da primeira noite, Lorenzo lembrou da última vez que os dois tinham estado juntos no bosque. Era verão de 1938. Julian tinha dezesseis anos, acabara de brigar com o pai sobre a guerra que se aproximava.
 
 Subiram na árvore mais alta - aquela que ninguém mais tinha coragem de subir. Ficaram horas lá em cima, olhando Ortona lá embaixo, as luzes acendendo uma a uma quando a noite chegava. O mar brilhava sob a lua.
 
-> **"Promete uma coisa", Julian tinha dito, olhando o horizonte.**
-> 
-> **"O quê?", Lorenzo perguntou.**
-> 
-> **"Se eu sumir um dia... se a guerra me levar... você me encontra."**
-
+ "Promete uma coisa", Julian tinha dito, olhando o horizonte. "O quê?", Lorenzo perguntou. "Se eu sumir um dia... se a guerra me levar... você me encontra."
 Lorenzo tinha rido, achando exagero. "Você não vai sumir."
 
 Julian não riu de volta. Virou o rosto, sério como Lorenzo nunca tinha visto. "Promete. Não importa onde eu esteja. Não importa quanto tempo passe. Você me encontra."
 
 E Lorenzo, ainda sem entender por que aquilo era tão importante, prometeu:
 
-> **"Eu te encontro."**
-
+ "Eu te encontro."
 Agora, cinco anos depois, caminhando de volta para Ortona, Lorenzo entendia. Julian sempre soube que não era o tipo de pessoa que ficaria quieta quando a injustiça chegasse. E tinha feito Lorenzo prometer porque sabia que, um dia, precisaria que alguém o procurasse.
 
-**A promessa ainda estava de pé.**
-**E Lorenzo ia cumpri-la até o fim.**
-
-### 🛣️ **A Viagem**
-
+A promessa ainda estava de pé.E Lorenzo ia cumpri-la até o fim.
+### A Viagem
 Três semanas de estradas secundárias. Três semanas dormindo em celeiros gelados, comendo pão duro, falando menos ainda. Desertores eram caçados com a mesma dedicação que espiões - um único erro e estariam diante de um pelotão de fuzilamento. Mas conheciam as trilhas antigas, os caminhos que o exército ignorava, os lugares onde trabalhadores pobres não levantavam suspeita.
 
 Quando o sol nasceu sobre o Adriático pela primeira vez em semanas, Ortona apareceu.
@@ -63,8 +52,7 @@ Um apito distante estourou a tensão. O sargento levantou a cabeça, respondeu c
 
 — Bem-vindo de volta — disse Julian.
 
-### 🏘️ **Ortona Transformada**
-
+### Ortona Transformada
 Quando o sol finalmente subiu, Ortona apareceu. Não como lembrança, mas como ferida. A cidade, empoleirada no alto da falésia, parecia menor. Havia janelas fechadas e bandeiras que não pertenciam àquele lugar. Na praça onde eles cresceram correndo atrás de pombos, tremulava a mesma cor que Lorenzo tinha visto em Florença, nos cartazes e nos discursos: vermelha, pesada, agressiva.
 
 — Eles tomaram tudo — murmurou Lorenzo.
@@ -73,14 +61,13 @@ Quando o sol finalmente subiu, Ortona apareceu. Não como lembrança, mas como f
 
 Desceram por uma trilha que só os pescadores conheciam. Não entraram pela via principal. Contornaram pomares, pularam muros baixos, atravessaram um quintal com parreiras ressecadas. Ortona, de perto, era o som de portas batendo rápido e de vozes que paravam quando passos ecoavam na rua. O cheiro do pão cedeu espaço para o de combustível e metal.
 
-No primeiro beco, viram cartazes pregados na parede. Em alemão e italiano. "Toque de recolher". "Proibido reunião". "Colaboração obrigatória". No rodapé, a assinatura estampada com carimbo oficial: **Oberst Heinrich Vogel**.
+No primeiro beco, viram cartazes pregados na parede. Em alemão e italiano. "Toque de recolher". "Proibido reunião". "Colaboração obrigatória". No rodapé, a assinatura estampada com carimbo oficial: Oberst Heinrich Vogel.
 
 — O nome dele está até no papel da parede — disse Julian, seco.
 
 — Ele quer que a cidade memorize quem manda — respondeu Lorenzo.
 
-### 🏠 **A Casa Perdida**
-
+### 🏠 A Casa Perdida
 Na esquina da barbearia, uma senhora varria a calçada. Quando viu os dois passarem, parou. Reconheceu algo no silêncio deles. Virou a vassoura para dentro — aquele velho jeito de dizer "entrem sem chamar atenção".
 
 O barbeiro levantou os olhos quando entraram. Demorou um segundo até a memória encaixar nos rostos diante dele.
@@ -125,14 +112,12 @@ O barbeiro respondeu sem responder:
 
 Lorenzo assentiu. A senhora da vassoura abriu a porta dos fundos com o queixo. Eles saíram por trás, cortando pelos fundos da casa.
 
-### 🏠 **A Casa dos Pais**
-
+### 🏠 A Casa dos Pais
 Seguiram se movendo como sombras, sem pressa, sem peso. O mapa de Ortona estava gravado nos pés. Passaram pelo pátio da escola, agora com grades, pelo adro da igreja, onde soldados alemães fumavam à sombra, pelo corredor estreito que dava na antiga casa de Lorenzo. A porta tinha outra cor. A janela, outro dono.
 
 A casa tinha outra cor agora. Outra porta. Outro dono. Lorenzo parou diante dela por alguns segundos.
 
-**Memória.**
-
+Memória.
 *Pátio nos fundos. Lorenzo tinha oito anos. O pai, Marco Bianchi, pescador de mãos calejadas e rosto queimado de sol, ensinava o filho a fazer o nó de pescador.*
 
 *"Um homem que não sabe amarrar não sabe se prender a nada", dizia Marco, mãos firmes guiando as pequenas mãos do filho. Julian estava ao lado, rindo porque Lorenzo errava o nó pela quinta vez.*
@@ -147,7 +132,7 @@ A casa tinha outra cor agora. Outra porta. Outro dono. Lorenzo parou diante dela
 
 *Mas agora...*
 
-**Marco tinha morrido três anos antes.** Coração cansado de mar e guerra. Pescador a vida toda, sobreviveu às tempestades do Adriático mas não sobreviveu à idade e ao desgosto de ver o país que amava se destruindo.
+Marco tinha morrido três anos antes. Coração cansado de mar e guerra. Pescador a vida toda, sobreviveu às tempestades do Adriático mas não sobreviveu à idade e ao desgosto de ver o país que amava se destruindo.
 
 A mãe foi para Pescara logo depois, morar com a irmã mais velha. A casa foi vendida para pagar dívidas do funeral.
 
@@ -163,8 +148,7 @@ Lorenzo tinha se amarrado ao uniforme fascista. E quase afundou.
 
 Agora se amarrava a Ortona. A Julian. À resistência.
 
-**E isso... isso ia salvá-lo.**
-
+E isso... isso ia salvá-lo.
 — A gente não está aqui para reconquistar paredes — disse Julian, lendo o pensamento do amigo. — Estamos aqui para reconquistar a cidade.
 
 — Uma coisa depende da outra — respondeu Lorenzo, finalmente tirando os olhos da casa.
@@ -173,8 +157,7 @@ Mas carregava a lição do pai como se carregasse uma âncora.
 
 Pesada. Mas necessária.
 
-### 🚨 **A Resistência Ativa**
-
+### 🚨 A Resistência Ativa
 Na rua seguinte, um grupo de alemães revistava sacos de farinha. Um homem magro tentava explicar em italiano que era o estoque do mês. Um soldado, impaciente, rasgou o saco com a baioneta. A farinha caiu como neve suja no chão de pedra. Uma criança chorou. O homem calou a boca. Ninguém se meteu.
 
 — É isso que eles chamam de ordem — disse Julian.
@@ -189,8 +172,7 @@ Lorenzo e Julian se entreolharam. Não disseram nada. Não precisavam. A cidade 
 
 Eles não eram os únicos que estavam dispostos a lutar.
 
-### 🌆 **O Toque de Recolher**
-
+### 🌆 O Toque de Recolher
 A tarde se fez cinza e o toque de recolher foi anunciado por um alto-falante metálico que arranhava o ouvido. A cidade recolheu-se. O vento do mar trouxe frio. As sombras tomaram as escadas, os becos, as varandas.
 
 Lorenzo e Julian entraram numa adega abandonada atrás da casa de um velho amigo. Julian conhecia o lugar — tinha se escondido ali antes de fugir para Florença, quando as coisas ficaram quentes demais em Ortona. O dono tinha partido há meses. O cheiro de madeira e vinho antigo ainda morava ali. Fecharam a porta por dentro. O silêncio pesou.
@@ -219,8 +201,7 @@ Lá fora, um jipe parou na praça. Um oficial desceu, olhou em volta, conferiu o
 
 Dentro da adega, dois homens, sem uniforme e sem bandeira, decidiram ficar.
 
-**Não era coragem sem medo. Era coragem apesar dele.**
-
+Não era coragem sem medo. Era coragem apesar dele.
 Naquela noite, em Ortona, algo começou a se mover. Não tinha nome. Não tinha líder. Apenas vontade — espalhada, silenciosa, teimosa — de não morrer de joelhos.
 
 ---

@@ -1,18 +1,15 @@
-# 📖 **CAPÍTULO 12**
-## O Queijo e a Armadilha
+## CAPÍTULO 12 - O Queijo e a Armadilha ##
 
-**📍 Local:** Ortona, Prefeitura  
-**📅 Data:** 1943, minutos após pegarem o mapa
+📍 Local: Ortona, Prefeitura  
+📅 Data: 1943, minutos após pegarem o mapa
 
 ---
 
-### 🏃 **A Fuga e a Descoberta**
-
+### A Fuga e a Descoberta
 James pulou. O corpo girou no ar. Aterrissou no telhado adjacente. Rolou. Levantou rápido.
 Julian veio atrás. Saltou. Aterrissou. Mas o telhado era telha velha.
 
-**CRACK.**
-
+CRACK.
 Uma telha quebrou sob o pé dele.
 
 Escorregou.
@@ -41,8 +38,7 @@ A pilha de livros no armário. Fora de ordem.
 
 Não eram mudanças grandes. Eram milímetros. Ângulos errados. Posições ligeiramente deslocadas.
 
-**Mas Vogel via.**
-
+Mas Vogel via.
 Porque ele conhecia aquele espaço como conhecia a própria respiração. Cada objeto tinha lugar exato. Cada papel, ângulo preciso.
 
 E agora estava... errado.
@@ -61,15 +57,15 @@ E então, algo mudou no rosto dele.
 
 Não era raiva. Era pior.
 
-Era **humilhação**.
+Era humilhação.
 
-Alguém tinha entrado no seu santuário. No seu espaço. No lugar onde **ele** era ordem, controle, poder absoluto.
+Alguém tinha entrado no seu santuário. No seu espaço. No lugar onde ele era ordem, controle, poder absoluto.
 
 E tinha tirado algo dele.
 
 A mão de Vogel apertou a borda da mesa. Dedos ficaram brancos.
 
-— **Encontrem** — disse, voz baixa, mortal. — Agora.
+— Encontrem — disse, voz baixa, mortal. — Agora.
 
 Dois soldados que estavam no corredor entraram correndo.
 
@@ -79,7 +75,7 @@ Dois soldados que estavam no corredor entraram correndo.
 
 — Quando, senhor?
 
-— **Agora.** — Os olhos de Vogel eram gelo. — Fechem a cidade. Bloqueiem todas as saídas. Revirem cada beco. Cada casa. Cada buraco.
+— Agora. — Os olhos de Vogel eram gelo. — Fechem a cidade. Bloqueiem todas as saídas. Revirem cada beco. Cada casa. Cada buraco.
 
 — Jawohl!
 
@@ -89,12 +85,10 @@ Vogel ficou sozinho. Voltou para a janela. Olhou para o telhado onde eles tinham
 
 Quem quer que fossem... tinham cometido um erro.
 
-**Tinham feito isso pessoal.**
-
+Tinham feito isso pessoal.
 ---
 
-### 🏃 **Perseguição e o Primeiro Encontro**
-
+### Perseguição e o Primeiro Encontro
 James e Julian corriam pelos becos.
 
 Atrás deles, apitos. Gritos em alemão. Botas batendo nas pedras.
@@ -125,10 +119,8 @@ Entraram numa casa vazia. Cheiro de mofo.
 
 Porta da frente se abriu com estrondo.
 
-**Soldados.**
-
-— **DA SIND SIE!**
-
+Soldados.
+— DA SIND SIE!
 James e Julian correram para os fundos. Escada. Subiram.
 
 Segundo andar. Janela.
@@ -141,16 +133,14 @@ Desceram por calha. Caíram em outro beco.
 
 E pararam.
 
-**Cercados.**
-
+Cercados.
 Soldados na frente. Soldados atrás. Saindo de todas as direções.
 
 Dez. Quinze. Vinte.
 
 Rifles apontados.
 
-— **WAFFEN RUNTER! JETZT!**
-
+— WAFFEN RUNTER! JETZT!
 James olhou ao redor. Calculou.
 
 Sem saída.
@@ -159,17 +149,15 @@ Julian ao lado dele. Respiração pesada.
 
 Os dois se entreolharam.
 
-**Acabou.**
-
+Acabou.
 E então—
 
 Uma voz. Calma. Controlada. Em inglês perfeito:
 
-— **Lower your weapons. Slowly.**
-
+— Lower your weapons. Slowly.
 Os soldados abriram caminho.
 
-E **Vogel** apareceu.
+E Vogel apareceu.
 
 Alto. Postura rígida. Cicatriz atravessando o rosto.
 
@@ -191,11 +179,11 @@ Vinte rifles apontados. Impossível sair vivo.
 
 James olhou para Julian. Calculou.
 
-**Se abaixarem armas:** capturados. Ambos.
+Se abaixarem armas: capturados. Ambos.
 
-**Se atirarem:** mortos. Ambos.
+Se atirarem: mortos. Ambos.
 
-**Se um criar distração:** o outro... talvez...
+Se um criar distração: o outro... talvez...
 
 Julian pensou a mesma coisa. James viu nos olhos dele.
 
@@ -203,52 +191,44 @@ E então Julian fez algo inesperado.
 
 Gritou em italiano:
 
-— **AGORA!**
-
+— AGORA!
 Como se houvesse reforços chegando.
 
 Metade dos soldados virou. Instinto.
 
 Julian aproveitou. Correu. Não para fugir.
 
-**Para Vogel.**
-
-— **JULIAN, NO!** — James gritou.
+Para Vogel.
+— JULIAN, NO! — James gritou.
 
 Mas Julian já estava correndo. Direto para o comandante alemão.
 
 Soldados atiraram.
 
-**BANG! BANG! BANG!**
-
+BANG! BANG! BANG!
 Julian tropeçou. Bala no ombro. Continuou. Mais três passos.
 
 Soldados se moveram para proteger Vogel.
 
-**A linha se abriu.**
-
+A linha se abriu.
 Espaço. Brecha. Dois segundos.
 
 Julian virou a cabeça para James. Olhos dizendo tudo:
 
-**VAI!**
-
+VAI!
 E então correu de volta para os soldados. Gritando. Atraindo atenção.
 
 Soldados atiraram.
 
-**BANG! BANG! BANG!**
-
+BANG! BANG! BANG!
 Julian caiu. Rolou. Levantou. Continuou gritando.
 
-— **AQUI! VEM AQUI!**
-
+— AQUI! VEM AQUI!
 Metade dos soldados correu para ele. A formação quebrou.
 
 Vogel gritou ordens:
 
-— **HALT! FORMATION! NICHT—**
-
+— HALT! FORMATION! NICHT—
 Tarde demais.
 
 Caos instalado.
@@ -259,8 +239,7 @@ James estava a três metros da esquina.
 
 Ninguém olhando para ele. Todos focados em Julian.
 
-**Oportunidade.**
-
+Oportunidade.
 Dois segundos. Talvez três.
 
 Treinamento militar assumiu. Frio. Calculado.
@@ -291,16 +270,14 @@ Porque parar significava desperdiçar o que Julian acabara de comprar com o pró
 
 ---
 
-### 🏃 **A Fuga de James**
-
+### A Fuga de James
 James correu como nunca tinha corrido.
 
 Pés batendo no chão. Pulmões queimando. Mapa dentro do casaco.
 
 Atrás dele, gritos:
 
-— **DA! NOCH EINER!**
-
+— DA! NOCH EINER!
 Tiros.
 
 BANG! BANG! BANG!
@@ -333,8 +310,7 @@ Nada. Sozinho.
 
 Pegou o mapa. Ainda ali. Intacto.
 
-**Missão cumprida.**
-
+Missão cumprida.
 Mas o preço...
 
 Fechou os olhos.
@@ -355,8 +331,7 @@ Era sobrevivência com culpa.
 
 Deslizou pela árvore. Sentou no chão. Mapa ainda no casaco.
 
-**Missão cumprida.**
-
+Missão cumprida.
 Mas não sentia nada. Nenhuma satisfação. Nenhum alívio.
 
 Só via Julian.
@@ -371,12 +346,10 @@ James tinha feito missões difíceis antes. Tinha perdido homens antes. Miller t
 
 Mas sempre conseguira separar.
 
-**Missão de um lado. Emoção do outro.**
-
+Missão de um lado. Emoção do outro.
 Era o que faziam soldados. Era o que o mantinha vivo. Quinze anos no exército. Quinze anos sobrevivendo porque nunca hesitava. Nunca olhava para trás. Nunca se importava demais.
 
-**Dessa vez... não conseguia.**
-
+Dessa vez... não conseguia.
 Olhou para as próprias mãos. Tremiam.
 
 *"He made choice. Save mission."*
@@ -387,15 +360,14 @@ Mas James também tinha escolhido.
 
 Tinha corrido. Tinha aproveitado a distração. Tinha deixado Julian para trás.
 
-**Tático. Lógico. Correto.**
-
+Tático. Lógico. Correto.
 Mas não parecia correto.
 
 Parecia... errado.
 
 Pela primeira vez em quinze anos...
 
-...parecia profundamente, terrivelmente **errado**.
+...parecia profundamente, terrivelmente errado.
 
 Pegou o mapa de novo. Manchado de sangue. Sangue de Julian.
 
@@ -411,14 +383,12 @@ Levantou. Guardou o mapa. Respirou fundo.
 
 Tinha trabalho a fazer. Missão a completar.
 
-**Mas algo tinha quebrado dentro dele.**
-
+Mas algo tinha quebrado dentro dele.
 E sabia que nunca mais seria o mesmo.
 
 ---
 
-### ⛓️ **A Captura e o Encontro Final**
-
+### A Captura e o Encontro Final
 Julian não correu.
 
 Ficou de joelhos. Mãos levantadas.
@@ -433,8 +403,7 @@ Julian não respondeu.
 
 O soldado chutou de novo. Costelas.
 
-— **WO IST ER?!**
-
+— WO IST ER?!
 Julian cuspiu sangue.
 
 — Fuck... you.
@@ -455,7 +424,7 @@ Pegou. Voltou.
 
 Colocou a ficha sobre a mesa na frente de Julian.
 
-— **Julian Santoro** — leu em italiano perfeito. — Filho de Pietro Santoro, veterano da Primeira Guerra. — Olhou para Julian. — Marcado como elemento subversivo desde 1941. Desapareceu de Ortona meses antes da ocupação.
+— Julian Santoro — leu em italiano perfeito. — Filho de Pietro Santoro, veterano da Primeira Guerra. — Olhou para Julian. — Marcado como elemento subversivo desde 1941. Desapareceu de Ortona meses antes da ocupação.
 
 Vogel sorriu sem calor.
 
@@ -517,7 +486,7 @@ Mas ele sabia: em algum lugar, naquele bosque escuro...
 
 ...o canadense estava vivo.
 
-Com **seu** mapa.
+Com seu mapa.
 
 E essa humilhação...
 
@@ -525,17 +494,4 @@ E essa humilhação...
 
 ...não seria esquecida.
 
-> **Vogel tinha perdido uma batalha.**
->
-> **Mas a guerra dele estava apenas começando.**
->
-> **E dessa vez... seria pessoal.**
-
----
-
-**[FIM DO CAPÍTULO 12]**
-
----
-
-**Próximo: Capítulo 13 - O Caçador e o Preço**  
-*James volta ao bosque com o mapa. Lorenzo descobre sobre Julian. Conflito explode entre eles.*
+ Vogel tinha perdido uma batalha. Mas a guerra dele estava apenas começando. E dessa vez... seria pessoal.
