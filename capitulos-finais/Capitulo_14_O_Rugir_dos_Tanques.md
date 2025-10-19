@@ -258,7 +258,7 @@ De repente—
 
 **BANG!**
 
-James tropeçou. Bala tinha pegado a perna. Caiu. Bateu a cabeça numa pedra.
+Bala de raspão pegou a perna de James. Desequilibrou. Tropeçou. Caiu. Bateu a cabeça numa pedra.
 
 Apagou.
 
@@ -266,7 +266,7 @@ Lorenzo parou. Virou.
 
 — **JAMES!**
 
-James estava no chão. Inconsciente. Sangue na perna. Sangue na cabeça.
+James estava no chão. Inconsciente. Sangue na perna — raspão, mas sangrando. Sangue na cabeça — a pedra tinha aberto um corte.
 
 Alvo fácil.
 
