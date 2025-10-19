@@ -1,4 +1,4 @@
-## CAPÍTULO 16 - O Preço da Liberdade ##
+## CAPÍTULO 20 - O Preço da Liberdade ##
 
 ---
 

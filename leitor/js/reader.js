@@ -13,12 +13,16 @@ const CONFIG = {
         { number: 9, file: 'Capitulo_09_A_Resposta_de_Ferro.md', title: 'A Resposta de Ferro', date: '1943' },
         { number: 10, file: 'Capitulo_10_A_Cidade_sob_Ferro.md', title: 'A Cidade sob Ferro', date: '1943' },
         { number: 11, file: 'Capitulo_11_A_Missao_Secreta.md', title: 'A Missão Secreta', date: '1943' },
-        { number: 12, file: 'Capitulo_12_O_QUEIJO_E_A_ARMADILHA.md', title: 'O Queijo e a Armadilha', date: '1943' },
-        { number: 13, file: 'Capitulo_13_O_Cacador_e_o_Preco.md', title: 'O Caçador e o Preço', date: '1943' },
-        { number: 14, file: 'Capitulo_14_O_Rugir_dos_Tanques.md', title: 'O Rugir dos Tanques', date: '1943' },
-        { number: 15, file: 'Capitulo_15_A_Queda_da_Fortaleza.md', title: 'A Queda da Fortaleza', date: '1943' },
-        { number: 16, file: 'Capitulo_16_O_Preco_da_Liberdade.md', title: 'O Preço da Liberdade', date: '1943' },
-        { number: 17, file: 'Capitulo_17_Epilogo_2025.md', title: 'Epílogo 2025', date: '2025' }
+        { number: 12, file: 'Capitulo_12A_A_Fuga_e_a_Descoberta.md', title: 'A Fuga e a Descoberta', date: '1943' },
+        { number: 13, file: 'Capitulo_12B_A_Captura_e_o_Encontro_Final.md', title: 'A Captura e o Encontro Final', date: '1943' },
+        { number: 14, file: 'Capitulo_13A_O_Retorno_e_a_Humilhacao.md', title: 'O Retorno e a Humilhação', date: '1943' },
+        { number: 15, file: 'Capitulo_13B_O_Mapa_e_a_Paz_Armada.md', title: 'O Mapa e a Paz Armada', date: '1943' },
+        { number: 16, file: 'Capitulo_14A_A_Preparacao_e_a_Explosao.md', title: 'A Preparação e a Explosão', date: '1943' },
+        { number: 17, file: 'Capitulo_14B_A_Corrida_e_o_Rugir.md', title: 'A Corrida e o Rugir', date: '1943' },
+        { number: 18, file: 'Capitulo_15A_A_Fortaleza_e_o_Encontro.md', title: 'A Fortaleza e o Encontro', date: '1943' },
+        { number: 19, file: 'Capitulo_15B_O_Porao_e_o_Amanhecer.md', title: 'O Porão e o Amanhecer', date: '1943' },
+        { number: 20, file: 'Capitulo_16_O_Preco_da_Liberdade.md', title: 'O Preço da Liberdade', date: '1943' },
+        { number: 21, file: 'Capitulo_17_Epilogo_2025.md', title: 'Epílogo 2025', date: '2025' }
     ]
 };
 
