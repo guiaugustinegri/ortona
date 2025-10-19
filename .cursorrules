@@ -1,0 +1,65 @@
+# 📚 **ORTONA - CONTEXTO DO PROJETO**
+
+## 🎯 **Sobre o Projeto**
+Este é um projeto de escrita criativa focado na criação de um romance histórico sobre a Batalha de Ortona (1943) durante a Segunda Guerra Mundial.
+
+## 📖 **Contexto Principal**
+Para entender completamente o projeto, consulte sempre o arquivo **`SOBRE_O_LIVRO.md`** que contém:
+- Sinopse completa da história
+- Descrições detalhadas dos personagens principais
+- Contexto histórico da Batalha de Ortona
+- Estrutura narrativa e temas centrais
+- Locais e elementos de guerra
+
+## 📁 **Estrutura do Projeto**
+
+### **`capitulos-finais/`**
+- Contém os capítulos principais do livro em desenvolvimento
+- Cada capítulo é um arquivo individual para facilitar edição e revisão
+- Capítulos ainda em desenvolvimento - não são versões finais
+
+### **`Segmentos - Varios/`**
+- Contém versões alternativas e iterativas dos capítulos
+- Rascunhos e experimentos narrativos
+- Materiais de referência e desenvolvimento
+
+### **`agentes/`**
+- Contém documentação sobre diferentes aspectos da narrativa
+- Análises de personagens, estrutura e consistência
+
+## 🎭 **Personagens Principais**
+- **Lorenzo:** Líder da resistência italiana
+- **Julian:** Melhor amigo de Lorenzo, soldado experiente
+- **James Walker:** Tenente canadense em missão de reconhecimento
+- **Oberst Heinrich Vogel:** Comandante alemão de Ortona
+- **Unidade Canadense:** Miller (rádio), Edwards (atirador), Doyle (explosivos), Smith (demolições)
+
+## ⚔️ **Contexto Histórico**
+- Batalha de Ortona (1943) - "Little Stalingrad"
+- Campanha Italiana dos Aliados
+- Resistência italiana vs. ocupação alemã
+- Combates urbanos brutais
+
+## 🎨 **Estilo e Tom**
+- Narrativa histórica com foco humano
+- Combina ação militar com drama pessoal
+- Tom realista e emocional
+- Explora temas de sobrevivência, lealdade e sacrifício
+
+## 📝 **Diretrizes de Edição**
+- Manter consistência com o contexto histórico
+- Preservar o desenvolvimento dos personagens
+- Manter o tom e estilo estabelecido
+- Considerar a estrutura narrativa geral
+- Sempre consultar `SOBRE_O_LIVRO.md` para contexto
+
+## 🔄 **Status do Projeto**
+- Capítulos em desenvolvimento ativo
+- Estrutura narrativa definida
+- Personagens estabelecidos
+- Contexto histórico pesquisado
+- **NÃO são versões finais** - trabalho em progresso
+
+---
+
+*Consulte sempre `SOBRE_O_LIVRO.md` para contexto completo antes de fazer edições significativas.*

@@ -6,10 +6,9 @@
 
 ---
 
-### 🏃 **A Fuga**
+### 🏃 **A Fuga e a Descoberta**
 
 James pulou. O corpo girou no ar. Aterrissou no telhado adjacente. Rolou. Levantou rápido.
-
 Julian veio atrás. Saltou. Aterrissou. Mas o telhado era telha velha.
 
 **CRACK.**
@@ -18,13 +17,7 @@ Uma telha quebrou sob o pé dele.
 
 Escorregou.
 
-James agarrou o braço de Julian no último segundo. Puxou. Os dois se equilibraram.
-
-Respirações pesadas. Corações disparados.
-
-Olharam para a janela que acabaram de pular.
-
-Ninguém apareceu. Não ainda.
+James agarrou o braço de Julian no último segundo. Puxou. Os dois se equilibraram. Respirações pesadas. Corações disparados. Olharam para a janela que acabaram de pular. Ninguém apareceu. Não ainda.
 
 — Vamos — sussurrou James.
 
@@ -33,10 +26,6 @@ Atravessaram o telhado. Desceram por calha lateral. Caíram no beco estreito.
 Cheiro de lixo e esgoto. Paredes úmidas.
 
 Começaram a correr.
-
----
-
-### 🚪 **A Descoberta**
 
 Vogel entrou no escritório.
 
@@ -104,7 +93,7 @@ Quem quer que fossem... tinham cometido um erro.
 
 ---
 
-### 🏃 **Perseguição**
+### 🏃 **Perseguição e o Primeiro Encontro**
 
 James e Julian corriam pelos becos.
 
@@ -177,10 +166,6 @@ E então—
 Uma voz. Calma. Controlada. Em inglês perfeito:
 
 — **Lower your weapons. Slowly.**
-
----
-
-### 👁️ **O Primeiro Encontro**
 
 Os soldados abriram caminho.
 
@@ -292,8 +277,6 @@ Aproveitou o caos. Saiu.
 
 Simples assim.
 
----
-
 Mas simples não significa fácil.
 
 Enquanto corria, ouviu Julian gritando atrás dele.
@@ -308,7 +291,7 @@ Porque parar significava desperdiçar o que Julian acabara de comprar com o pró
 
 ---
 
-### 🏃 **A Fuga**
+### 🏃 **A Fuga de James**
 
 James correu como nunca tinha corrido.
 
@@ -372,7 +355,7 @@ Era sobrevivência com culpa.
 
 ---
 
-### ⛓️ **A Captura**
+### ⛓️ **A Captura e o Encontro Final**
 
 Julian não correu.
 
@@ -393,10 +376,6 @@ O soldado chutou de novo. Costelas.
 Julian cuspiu sangue.
 
 — Fuck... you.
-
----
-
-### 👁️ **O Encontro**
 
 Arrastaram Julian de volta pela trilha. De volta para a cidade. De volta para a prefeitura.
 
@@ -498,4 +477,3 @@ E essa humilhação...
 
 **Próximo: Capítulo 13 - O Caçador e o Preço**  
 *James volta ao bosque com o mapa. Lorenzo descobre sobre Julian. Conflito explode entre eles.*
-
