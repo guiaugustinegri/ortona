@@ -30,6 +30,14 @@
             background-size: 100% 100%, 100% 100%, 20px 20px;
             animation: coverPattern 20s linear infinite;
         }
+        /* Overlay escuro para aumentar contraste */
+        .cover-container::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.35);
+            z-index: 1;
+        }
         
         @keyframes coverPattern {
             0% { transform: translateX(0) translateY(0); }
@@ -41,13 +49,13 @@
             color: white;
             z-index: 2;
             position: relative;
-            max-width: 800px;
+            max-width: 900px;
             padding: 2rem;
         }
         
         .cover-title {
             font-family: var(--font-sans);
-            font-size: 4rem;
+            font-size: 4.5rem;
             font-weight: bold;
             margin-bottom: 1rem;
             text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7);
@@ -61,7 +69,7 @@
         }
         
         .cover-subtitle {
-            font-size: 1.6rem;
+            font-size: 1.8rem;
             margin-bottom: 1.25rem;
             font-style: italic;
             color: #fff9dc; /* maior contraste */
@@ -70,16 +78,16 @@
         }
         
         .cover-description {
-            font-size: 1.15rem;
+            font-size: 1.25rem;
             line-height: 1.8;
             margin-bottom: 2.25rem;
             color: #f3ecd6; /* texto mais claro */
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9);
-            max-width: 720px;
+            max-width: 780px;
             margin-left: auto;
             margin-right: auto;
             background: rgba(0, 0, 0, 0.45); /* painel para legibilidade */
-            padding: 1.25rem 1.5rem;
+            padding: 1.5rem 1.75rem;
             border: 1px solid rgba(255, 255, 255, 0.08);
             border-radius: 10px;
         }
@@ -134,17 +142,17 @@
         
         @media (max-width: 768px) {
             .cover-title {
-                font-size: 2.5rem;
+                font-size: 2.8rem;
                 padding: 1.5rem;
                 letter-spacing: 2px;
             }
             
             .cover-subtitle {
-                font-size: 1.2rem;
+                font-size: 1.3rem;
             }
             
             .cover-description {
-                font-size: 1rem;
+                font-size: 1.05rem;
             }
             
             .cover-buttons {
