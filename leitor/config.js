@@ -40,10 +40,22 @@ const READER_CONFIG = {
         musicPath: 'trilha sonora/',
         tracks: [
             { 
+                file: 'trilha sonora/ortona.mp3', 
+                chapters: [1, 2], 
+                name: 'Ortona',
+                description: 'Tema de abertura – capítulos 1 a 2'
+            },
+            { 
+                file: 'trilha sonora/reencontro.mp3', 
+                chapters: [3, 4, 5], 
+                name: 'Reencontro',
+                description: 'Tema do reencontro – capítulos 3 a 5'
+            },
+            { 
                 file: 'trilha sonora/Chamas.mp3', 
-                chapters: [1, 2, 3], 
+                chapters: [6, 7, 8], 
                 name: 'Chamas',
-                description: 'Música de abertura para os primeiros capítulos'
+                description: 'Tema de tensão – capítulos 6 a 8'
             },
             // Adicione mais músicas aqui:
             // { 
