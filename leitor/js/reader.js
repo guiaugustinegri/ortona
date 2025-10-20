@@ -64,13 +64,12 @@ document.addEventListener('DOMContentLoaded', function() {
         initializeReader();
         setupEventListeners();
         
-        // Verificar se há slug na URL
-        const path = window.location.pathname;
-        const slugMatch = path.match(/\/capitulo-(\d+)/);
-        if (slugMatch) {
-            const chapterFromSlug = parseInt(slugMatch[1]);
-            if (chapterFromSlug >= 1 && chapterFromSlug <= totalChapters) {
-                currentChapter = chapterFromSlug;
+        // Verificar slug via hash (ex: #capitulo-3)
+        const hashMatch = window.location.hash.match(/capitulo-(\d+)/);
+        if (hashMatch) {
+            const chapterFromHash = parseInt(hashMatch[1]);
+            if (chapterFromHash >= 1 && chapterFromHash <= totalChapters) {
+                currentChapter = chapterFromHash;
             }
         }
         
@@ -178,9 +177,9 @@ async function loadChapter(chapterNumber, timestamp = null) {
         if (elements.chapterNumber) elements.chapterNumber.textContent = `Capítulo ${chapter.number}`;
         if (elements.chapterText) elements.chapterText.innerHTML = html;
         
-        // Atualizar URL com slug
-        const slug = `/capitulo-${chapter.number}`;
-        window.history.pushState({}, '', slug);
+        // Atualizar URL com hash (evita 404 em refresh em hosts estáticos)
+        const slug = `capitulo-${chapter.number}`;
+        window.location.hash = slug;
         
         // Estilizar diálogos automaticamente
         styleDialogs();
