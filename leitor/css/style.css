@@ -615,7 +615,7 @@ body {
 .chapter-text .dialogue-simple {
     position: relative;
     margin: 1.2rem 0;
-    padding: 0.8rem 0 0.8rem 2rem;
+    padding: 0.8rem 1rem 0.8rem 2rem; /* padding-right para não grudar */
     border-left: 3px solid var(--olive-drab);
     color: var(--text-primary);
     font-style: italic;
@@ -765,8 +765,8 @@ body {
     }
     
     .book-title {
-        font-size: 1.1rem; /* título pequeno */
-        padding: 0.25rem 0.5rem;
+        font-size: 1rem; /* ainda menor */
+        padding: 0.2rem 0.4rem;
     }
     
     .header-controls {
@@ -776,7 +776,8 @@ body {
     }
     
     .header-nav {
-        display: none; /* sem anterior/próximo no topo no mobile */
+        display: flex; /* mostrar anterior/próximo compactos */
+        gap: 0.25rem;
     }
     
     .header-utils {
@@ -788,9 +789,9 @@ body {
     }
     
     .header-nav-button {
-        min-width: 60px;
-        padding: 0.3rem 0.6rem;
-        font-size: 0.8rem;
+        min-width: 56px;
+        padding: 0.25rem 0.5rem;
+        font-size: 0.75rem;
     }
     
     .reader-container {
