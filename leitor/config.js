@@ -58,7 +58,7 @@ const READER_CONFIG = {
     // Configurações gerais
     settings: {
         // Tema padrão: 'light' ou 'dark'
-        defaultTheme: 'light',
+        defaultTheme: 'dark',
         // Tamanho de fonte padrão
         defaultFontSize: 18,
         // Volume padrão da música (0-100)

@@ -2,148 +2,18 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ortona - Leitor Digital</title>
-    <link rel="stylesheet" href="css/style.css">
-    <!-- Fontes do sistema para tema militar -->
+    <meta http-equiv="refresh" content="0; url=capa.html">
+    <title>Redirecionando para a capa...</title>
+    <link rel="preload" href="capa.html" as="document">
 </head>
 <body>
-    <!-- Header -->
-    <header class="header">
-        <div class="header-content">
-            <div class="book-info">
-                <h1 class="book-title">
-                    <a href="capa.html" class="book-title-link">Ortona</a>
-                </h1>
-                <p class="book-subtitle">A Batalha que Mudou Tudo</p>
-            </div>
-            <div class="header-controls">
-                <div class="header-nav">
-                    <button id="header-prev-chapter" class="header-nav-button" title="Capítulo anterior" disabled>
-                        <span>Anterior</span>
-                    </button>
-                    <button id="header-next-chapter" class="header-nav-button" title="Próximo capítulo">
-                        <span>Próximo</span>
-                    </button>
-                </div>
-                <div class="header-utils">
-                    <a href="indice.html" class="header-nav-button" title="Ver índice">📖</a>
-                    <button id="music-toggle" class="music-button" title="Controle de música">♪</button>
-                    <button id="reload-chapter" class="reload-button" title="Recarregar capítulo">↻</button>
-                    <button id="theme-toggle" class="theme-toggle" title="Alternar tema">
-                        <span class="theme-icon">L</span>
-                    </button>
-                    <button id="font-size-decrease" class="font-control" title="Diminuir fonte">A-</button>
-                    <button id="font-size-increase" class="font-control" title="Aumentar fonte">A+</button>
-                </div>
-            </div>
-        </div>
-    </header>
-
-    <!-- Sidebar -->
-    <aside class="sidebar" id="sidebar">
-        <div class="sidebar-header">
-            <h3>Capítulos</h3>
-            <button id="sidebar-toggle" class="sidebar-toggle">×</button>
-        </div>
-        <nav class="chapter-nav">
-            <div class="progress-bar">
-                <div class="progress-fill" id="progress-fill"></div>
-            </div>
-            <ul class="chapter-list" id="chapter-list">
-                <!-- Capítulos serão carregados dinamicamente -->
-            </ul>
-        </nav>
-    </aside>
-
-    <!-- Main Content -->
-    <main class="main-content">
-        <div class="reader-container">
-            <!-- Loading -->
-            <div id="loading" class="loading">
-                <div class="loading-spinner"></div>
-                <p>Carregando capítulo...</p>
-            </div>
-
-            <!-- Chapter Content -->
-            <article id="chapter-content" class="chapter-content">
-                <div class="chapter-header">
-                    <h1 id="chapter-title" class="chapter-title"></h1>
-                    <div class="chapter-meta">
-                        <span id="chapter-number" class="chapter-number"></span>
-                    </div>
-                </div>
-                <div id="chapter-text" class="chapter-text">
-                    <!-- Conteúdo do capítulo será inserido aqui -->
-                </div>
-            </article>
-
-            <!-- Navigation -->
-            <nav class="chapter-navigation">
-            <button id="prev-chapter" class="nav-button prev-button" disabled>
-                <span>Anterior</span>
-            </button>
-                <div class="nav-info">
-                    <span id="current-chapter-info">Capítulo 1 de 21</span>
-                </div>
-                <button id="next-chapter" class="nav-button next-button">
-                    <span>Próximo</span>
-                </button>
-            </nav>
-        </div>
-    </main>
-
-    <!-- Footer -->
-    <footer class="footer">
-        <div class="footer-content">
-            <p>&copy; 2025 Ortona - Romance Histórico</p>
-            <div class="footer-links">
-                <a href="#" id="bookmark-toggle">Marcar página</a>
-                <a href="#" id="share-chapter">Compartilhar</a>
-            </div>
-        </div>
-    </footer>
-
-    <!-- Music Player Panel -->
-    <div id="music-panel" class="music-panel hidden">
-        <div class="music-panel-header">
-            <h3>Trilha Sonora</h3>
-            <button id="music-panel-close" class="music-panel-close">×</button>
-        </div>
-        <div class="music-panel-content">
-            <div class="current-track">
-                <div class="track-info">
-                    <div class="track-name" id="current-track-name">Nenhuma música tocando</div>
-                    <div class="track-chapters" id="current-track-chapters">Capítulos: -</div>
-                </div>
-                <div class="track-controls">
-                    <button id="music-play-pause" class="music-control-btn">▶</button>
-                    <button id="music-stop" class="music-control-btn">⏹</button>
-                    <button id="music-mute" class="music-control-btn">🔊</button>
-                </div>
-            </div>
-            <div class="volume-control">
-                <label for="music-volume">Volume:</label>
-                <input type="range" id="music-volume" min="0" max="100" value="50">
-                <span id="volume-display">50%</span>
-            </div>
-            <div class="music-settings">
-                <label>
-                    <input type="checkbox" id="music-auto-play"> Tocar automaticamente
-                </label>
-                <label>
-                    <input type="checkbox" id="music-loop"> Repetir música
-                </label>
-            </div>
-        </div>
-        <audio id="background-music" preload="auto" loop>
-            <source src="" type="audio/mpeg">
-        </audio>
-    </div>
-
-    <!-- Scripts -->
-    <script src="config.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <script src="js/reader.js"></script>
+    <noscript>
+        <meta http-equiv="refresh" content="0; url=capa.html">
+        Se não for redirecionado automaticamente, <a href="capa.html">clique aqui</a>.
+    </noscript>
+    Redirecionando para a capa...
+    <script>
+        window.location.replace('capa.html');
+    </script>
 </body>
 </html>

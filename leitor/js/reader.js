@@ -87,7 +87,7 @@ function initializeReader() {
     });
     
     // Carregar tema salvo
-    const savedTheme = localStorage.getItem('ortona-theme') || 'light';
+    const savedTheme = localStorage.getItem('ortona-theme') || READER_CONFIG.settings.defaultTheme || 'dark';
     setTheme(savedTheme);
     
     // Carregar tamanho da fonte salvo
