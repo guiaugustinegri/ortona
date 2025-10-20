@@ -768,6 +768,7 @@ body {
         font-size: 1rem; /* ainda menor */
         padding: 0.2rem 0.4rem;
     }
+    .book-subtitle { display: none; }
     
     .header-controls {
         flex-direction: row;
@@ -780,13 +781,7 @@ body {
         gap: 0.25rem;
     }
     
-    .header-utils {
-        display: flex; /* mostrar apenas o play da música */
-    }
-
-    .header-utils > :not(#music-toggle) {
-        display: none !important;
-    }
+    .header-utils { display: none; }
     
     .header-nav-button {
         min-width: 56px;
@@ -797,6 +792,9 @@ body {
     .reader-container {
         padding: 0.75rem;
     }
+
+    /* Evitar conteúdo escondido sob o header fixo */
+    .main-content { margin-top: 100px; }
     
     .chapter-header {
         padding: 1.25rem 0.75rem;
