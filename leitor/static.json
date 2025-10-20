@@ -1,0 +1,12 @@
+{
+  "routes": [
+    { "src": "/capa", "dest": "/capa.html" },
+    { "src": "/indice", "dest": "/indice.html" },
+    { "src": "/capitulo-.*", "dest": "/leitor.html" },
+    { "src": "/favicon.ico", "dest": "/favicon.ico" },
+    { "src": "^/$", "dest": "/capa.html" },
+    { "src": "/.*", "dest": "/leitor.html" }
+  ]
+}
+
+
