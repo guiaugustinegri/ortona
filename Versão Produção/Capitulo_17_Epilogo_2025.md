@@ -39,40 +39,28 @@ E parou.
 
 ---
 
-### 📷 A Foto
+### A Foto
 Era pequena. Preto e branco. Qualidade ruim — foto de guerra, tirada às pressas.
 
 Cenário: Prefeitura de Ortona. Degraus de pedra. Porta aberta ao fundo. Escombros espalhados.
 
 Soldados canadenses em volta. Alguns de pé, exaustos. Outros sentados nos degraus. Rifles encostados. Rostos sujos de fumaça e sangue seco.
 
-No centro, três homens.
-
-Dois italianos. Um canadense.
+No centro, três homens. Dois italianos. Um canadense.
 O primeiro italiano era jovem. Vinte e poucos anos. Olhar intenso. Roupas civis rasgadas. Sem arma visível — mas postura de quem sabia lutar.
 
 O segundo italiano estava ao lado dele. Magro demais. Braço enfaixado — enfaixe sujo, improvisado. Olheiras profundas. Corpo curvado de quem tinha sido quebrado mas ainda estava de pé.
 
 E entre eles, um soldado canadense. Uniforme rasgado. Perna enfaixada. Apoiado nos dois italianos como se fossem os únicos mantendo ele em pé.
 
-Ou talvez fosse o contrário.
-Os três se apoiavam mutuamente.
+Ou talvez fosse o contrário. Os três se apoiavam mutuamente. E todos os três tinham a mesma expressão que Daniel não conseguia decifrar.
 
-E todos os três tinham a mesma expressão que Daniel não conseguia decifrar.
+Não era felicidade. Não era tristeza. Era... sobrevivência. E algo mais. Algo como... irmandade.
 
-Não era felicidade. Não era tristeza.
-
-Era... sobrevivência.
-
-E algo mais. Algo como... irmandade.
-Daniel olhou melhor.
-
-Na borda inferior da foto, escrita à mão — tinta desbotada pelo tempo — algumas palavras:
+Daniel olhou melhor. Na borda inferior da foto, escrita à mão — tinta desbotada pelo tempo — algumas palavras:
 
 "Resistenza del Bosco. 28 Dic 1943."
-Resistenza del Bosco.
 
-Resistência do Bosque.
 Daniel levantou a mão.
 
 — Professora... quem são esses aqui?
@@ -92,15 +80,15 @@ Voltou para a frente da sala.
 Daniel ficou olhando a foto. Havia algo no olhar daqueles três homens. Algo que ele não conseguia nomear.
 
 TRIIIIIIIIIIIIIIIIIIIIM
+
 O sinal do intervalo.
 
-Nesse momento, escutando o sinal e olhando aquelas três figuras desconhecidas, Daniel sentiu algo forte. Ele mesmo não sabia o que era. Uma felicidade misturada com paz. Uma quentura no peito.
+Nesse momento, escutando o sinal e olhando aquelas três figuras desconhecidas, Daniel sentiu algo forte. Ele mesmo não sabia o que era. Uma quentura no peito.
 
 Seria gratidão? Nem ele mesmo saberia dizer.
 
 Fechou o livro e correu para brincar com seus amigos.
 
----
 
 [FIM]
 

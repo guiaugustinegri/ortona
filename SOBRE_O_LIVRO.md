@@ -2,16 +2,16 @@
 
 ## 📖 **Sinopse**
 
-**Ortona** é uma narrativa histórica que se passa durante a Segunda Guerra Mundial, especificamente durante a Batalha de Ortona (1943), uma das mais sangrentas e brutais batalhas urbanas da campanha italiana. A história acompanha dois protagonistas principais: **Lorenzo**, um jovem italiano que se torna líder da resistência local, e **James Walker**, um tenente canadense em missão de reconhecimento.
+**Ortona** é uma narrativa histórica que se passa durante a Segunda Guerra Mundial, especificamente durante a Batalha de Ortona (1943), uma das mais sangrentas e brutais batalhas urbanas da campanha italiana. A história acompanha dois protagonistas principais: **Lorenzo Bianchi**, um jovem italiano que se torna líder da resistência local, e **James Walker**, um tenente canadense em missão de reconhecimento.
 
 A narrativa explora temas de sobrevivência, lealdade, sacrifício e a brutalidade da guerra através de uma perspectiva íntima e humana. A história se desenvolve em duas frentes: a resistência italiana organizando-se no bosque de Ortona e a missão canadense de infiltração para obter informações cruciais sobre as defesas alemãs.
 
-### **Estrutura Narrativa**
+### **Estrutura Narrativa (Versão Produção)**
 - **Ato 1 (Capítulos 1-5):** Estabelecimento - Ortona ocupada, Lorenzo retorna, resistência se forma
 - **Ato 2 (Capítulos 6-8):** Convergência - Missão canadense, encontro no bosque, aliança improvável
-- **Ato 3 (Capítulos 9-13):** Escalada - Vogel contra-ataca, Julian capturado, conflito Lorenzo-James
-- **Ato 4 (Capítulos 14-16):** Clímax - Batalha urbana, perdas, resolução moral
-- **Ato 5 (Capítulos 17-18):** Resolução - Libertação, consequências, epílogo
+- **Ato 3 (Capítulos 9-11):** Escalada - Vogel contra-ataca, missão secreta, preparação para o confronto
+- **Ato 4 (Capítulos 12A-15B):** Clímax - Fuga e captura, confronto Lorenzo-James, batalha urbana
+- **Ato 5 (Capítulos 16-17):** Resolução - Libertação, consequências, epílogo
 
 ## 🎭 **Personagens Principais**
 
@@ -84,24 +84,25 @@ A narrativa explora temas de sobrevivência, lealdade, sacrifício e a brutalida
 - **Encontro:** Lorenzo e Julian salvam os canadenses no bosque
 - **Aliança:** Formação de parceria improvável
 
-### **Ato 3: Escalada (Capítulos 9-13)**
+### **Ato 3: Escalada (Capítulos 9-11)**
 - **Resposta de Vogel:** Contra-ataque alemão
 - **Execução pública:** Terror como arma
 - **Missão secreta:** Roubo dos mapas de defesa
-- **Captura de Julian:** Sacrifício para salvar a missão
-- **Confronto:** Lorenzo vs. James - conflito de valores
+- **Preparação:** Aliança se fortalece para o confronto final
 
-### **Ato 4: Clímax (Capítulos 14-16)**
-- **A guerra chega:** Batalha no bosque
-- **Batalha urbana:** Combates casa por casa
-- **Morte de Julian:** Encontro com o corpo torturado
-- **Decisão moral:** Lorenzo poupa Vogel
-- **Libertação:** Ortona é libertada
+### **Ato 4: Clímax (Capítulos 12-15)**
+- **A Fuga e a Descoberta:** James e Julian roubam o mapa, fuga pela prefeitura
+- **A Captura e o Encontro Final:** Julian se sacrifica, James escapa com o mapa
+- **O Retorno e a Humilhação:** Lorenzo confronta James, conflito de valores
+- **O Mapa e a Paz Armada:** Análise do mapa, descoberta da rota dos tanques
+- **A Preparação e a Explosão:** Preparação da explosão, Doyle dá o aviso
+- **A Corrida e o Rugir:** Explosão, corrida desesperada, James ferido
+- **A Fortaleza e o Encontro:** Batalha urbana de 8 dias, Lorenzo procura Julian
+- **O Porão e o Amanhecer:** Encontro com Julian torturado, decisão moral
 
-### **Ato 5: Resolução (Capítulos 17-18)**
-- **Consequências:** Baixas e sobreviventes
-- **Partida de James:** Retorno ao Canadá
-- **Epílogo 2025:** Memória e esquecimento histórico
+### **Ato 5: Resolução (Capítulos 16-17)**
+- **O Preço da Liberdade:** Estatísticas da batalha, custo humano
+- **Epílogo 2025:** Memória e esquecimento histórico, Daniel descobre a foto
 
 ## 🎨 **Temas Centrais**
 
@@ -174,6 +175,28 @@ A narrativa explora temas de sobrevivência, lealdade, sacrifício e a brutalida
 - **Estrutura:** Três atos bem definidos, clímax emocional poderoso
 - **Personagens:** Arcos completos, motivações genuínas, transformações orgânicas
 - **Consistência:** Voz única, estilo uniforme, tom coerente
+
+## 📚 **Versão de Produção**
+
+### **Estrutura Final**
+A versão de produção apresenta uma estrutura refinada com **17 capítulos** organizados em 5 atos, incluindo uma divisão estratégica dos capítulos de clímax em partes A e B para maior impacto narrativo:
+
+- **Capítulos 1-11:** Desenvolvimento linear da história
+- **Capítulos 12-15:** Clímax dividido em 8 segmentos para intensificar a tensão
+- **Capítulos 16-17:** Resolução e epílogo
+
+### **Principais Melhorias da Versão Produção**
+- **Ritmo narrativo:** Divisão dos capítulos de clímax permite maior controle do suspense
+- **Desenvolvimento de personagens:** Mais tempo para explorar o conflito Lorenzo-James
+- **Detalhamento da batalha:** Capítulos "A Fortaleza e o Encontro" e "O Porão e o Amanhecer" expandem os 8 dias de combate urbano
+- **Impacto emocional:** Estrutura permite momentos de respiro entre cenas intensas
+- **Precisão histórica:** Estatísticas reais da batalha no capítulo "O Preço da Liberdade"
+
+### **Capítulos do Clímax**
+- **A Fuga e a Descoberta / A Captura e o Encontro Final:** Separação entre a fuga e a captura para destacar o sacrifício de Julian
+- **O Retorno e a Humilhação / O Mapa e a Paz Armada:** Conflito emocional vs. análise estratégica
+- **A Preparação e a Explosão / A Corrida e o Rugir:** Preparação vs. execução da explosão
+- **A Fortaleza e o Encontro / O Porão e o Amanhecer:** Batalha urbana vs. encontro pessoal no porão
 
 ---
 

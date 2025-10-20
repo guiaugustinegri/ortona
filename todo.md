@@ -1,0 +1,4 @@
+- Qual o tamanho em caracteres do livro? Ele está bem distribuido? Contar e comparar
+- Tirar os Emojis
+- Arrumar as formatações do Markdown que estão "sobrando" exemplo > e **, retirar tudo por hora
+- Definir os novos Markdowns de narrativa, por exemplo Sonoplastia(onomatopeia) , momento importante, falas etc
