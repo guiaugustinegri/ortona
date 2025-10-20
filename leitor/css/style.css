@@ -782,11 +782,12 @@ body {
     .header-utils {
         order: 2;
         justify-content: center;
+        display: none; /* esconder utilitários no mobile para máxima leitura */
     }
     
     .header-nav-button {
-        min-width: 70px;
-        padding: 0.4rem 0.8rem;
+        min-width: 60px;
+        padding: 0.3rem 0.6rem;
         font-size: 0.8rem;
     }
     
