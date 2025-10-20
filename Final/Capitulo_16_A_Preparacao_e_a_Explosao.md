@@ -78,9 +78,9 @@ Lorenzo cerrou os punhos.
 James virou para a equipe.
 
 — Vamos agora. Miller, Smith, peguem equipamento. Lorenzo, Doyle, armas. Movam-se!
----
 
-### 💼 Smith e a Mochila
+
+### Smith 
 Smith levantou com esforço, com o pouco de saúde que estava estava verificando os explosivos quando James se aproximou.
 
 Ele queria participar da ação, mas sabia que não conseguiria
@@ -115,7 +115,6 @@ Lorenzo sorriu fraco.
 
 — Vou trazer explodida.
 
----
 
 ### A Corrida Contra o Tempo
 James, Lorenzo e Miller saíram do acampamento.
@@ -177,7 +176,7 @@ BEEP. BEEP. BEEP.
 — CORRE!
 ---
 
-### 💥 A Explosão
+### A Explosão
 Correram cinquenta metros. Pulmões queimando. Pernas pesadas.
 
 Mergulharam atrás de rochas. Lorenzo olhou para trás uma última vez.
@@ -212,9 +211,9 @@ Dois.
 
 Um.
 
----
 
 BOOOOOOOOOOM.
+
 A explosão não foi som.
 
 Foi sentimento.

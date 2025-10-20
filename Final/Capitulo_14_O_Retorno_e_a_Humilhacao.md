@@ -184,7 +184,7 @@ Vogel sorriu. Não era sorriso feliz. Era sorriso de predador que acabou de sent
 — Traga-o aqui. Agora.
 ---
 
-### 🎣 A Isca
+### A Isca
 Dez minutos depois, um homem de meia-idade foi arrastado para o escritório de Vogel.
 
 Magro. Roupas rasgadas. Mãos tremendo.

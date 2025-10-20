@@ -16,7 +16,7 @@ Vogel se levantou devagar. Tocou a cicatriz no rosto — não por vaidade, mas p
 
 — Entre — disse, sem alterar o tom.
 
-### 📋 O Relatório
+### O Relatório
 O soldado entrou, nervoso. Abriu um mapa sobre a mesa.
 
 — Patrulhas identificaram atividade a norte. Disparos. Sinais de confronto. E… — ele hesitou — rastros indicam três… talvez quatro homens se movendo em direção ao interior do bosque.
@@ -41,14 +41,14 @@ Nenhuma mudança no rosto de Vogel. Nada. Ele apenas ajustou os punhos do casaco
 
 O soldado fez continência e saiu apressado.
 
-### 🪟 A Cidade que Não Sabe
+### A Cidade que Não Sabe
 Ao ficar sozinho, Vogel aproximou-se da janela. A cidade dormia, silenciosa, como se ignorasse que tinha acabado de cruzar uma linha da qual jamais voltaria.
 
 — Então, finalmente resolveram testar Ortona… — murmurou.
 
 Mas a noite ainda não tinha acabado.
 
-### 📰 A Notícia de Roma
+### A Notícia de Roma
 Outro oficial entrou correndo.
 
 — Herr Oberst! Notícias urgentes de Roma!
@@ -67,7 +67,7 @@ Então respondeu como se estivesse comentando sobre o clima:
 
 — Ordens, Herr Oberst?
 
-### 🔪 A Decisão Final
+### A Decisão Final
 Ele vestiu as luvas pretas lentamente.
 
 — Ortona é minha. Esta cidade será mantida a qualquer custo. A partir de agora… ninguém sai vivo sem minha permissão. Caça aberta. Fechem o cerco. Quero esses homens. Mortos… ou ajoelhados.

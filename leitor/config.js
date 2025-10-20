@@ -4,7 +4,8 @@
 
 const READER_CONFIG = {
     // Caminho para os capítulos (relativo ao leitor)
-    chaptersPath: '../Final/',
+    // Em produção, os capítulos serão copiados para "leitor/capitulos/"
+    chaptersPath: 'capitulos/',
     
     // Lista de capítulos
     chapters: [
@@ -35,10 +36,11 @@ const READER_CONFIG = {
     musicConfig: {
         enabled: true,
         // Caminho para a pasta de música (relativo ao leitor)
-        musicPath: '../trilha sonora/',
+        // Em produção, as músicas serão copiadas para "leitor/trilha sonora/"
+        musicPath: 'trilha sonora/',
         tracks: [
             { 
-                file: '../trilha sonora/Chamas.mp3', 
+                file: 'trilha sonora/Chamas.mp3', 
                 chapters: [1, 2, 3], 
                 name: 'Chamas',
                 description: 'Música de abertura para os primeiros capítulos'

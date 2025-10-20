@@ -183,9 +183,8 @@ Os dois se olharam. Não disseram mais nada.
 
 Não precisavam.
 
----
 
-### 🌆 A Missão na Cidade
+### A Missão na Cidade
 Julian saiu primeiro. James atrás, com roupas civis e terra no rosto.
 
 Lorenzo ficou na borda do bosque, observando os dois descerem pela trilha antiga até desaparecerem entre as árvores.
@@ -200,24 +199,15 @@ Uma mulher da resistência passou rápido, sussurrou:
 
 — Vogel saiu. Rumo sul. Três ruas à frente, porta dos fundos.
 
-Desapareceu.
-
-Julian respirou fundo. Olhou para James.
-
-Não disseram nada.
-
-Andaram.
+Desapareceu. Julian respirou fundo. Olhou para James. Não disseram nada. Andaram.
 
 Porta dos fundos. Velha. Quase invisível.
 
 Julian enfiou a chave. Girou.
-
 Clique.
 Abriu.
 
-Entraram.
-
-Corredor estreito. Cheiro de papel e medo. Vozes alemãs ecoando longe.
+Entraram. Corredor estreito. Cheiro de papel e medo. Vozes alemãs ecoando longe.
 
 Julian fez sinal: devagar.
 Avançaram. Escada lateral. Subiram.
@@ -232,9 +222,8 @@ Julian tirou arame. Trabalhou rápido. Vinte segundos.
 Clique.
 Entraram.
 
----
 
-### 📂 O Santuário e a Fuga
+### O Santuário e a Fuga
 A sala era perfeita.
 
 Nenhum papel fora do lugar. Nenhum livro torto. Ordem absoluta.

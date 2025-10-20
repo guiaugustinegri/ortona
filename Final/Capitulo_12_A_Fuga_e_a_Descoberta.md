@@ -10,6 +10,7 @@ James pulou. O corpo girou no ar. Aterrissou no telhado adjacente. Rolou. Levant
 Julian veio atrás. Saltou. Aterrissou. Mas o telhado era telha velha.
 
 CRACK.
+
 Uma telha quebrou sob o pé dele.
 
 Escorregou.
@@ -28,40 +29,24 @@ Vogel entrou no escritório.
 
 Parou.
 
-Não disse nada. Apenas observou.
-
-A gaveta da mesa. Meio aberta.
-
+Não disse nada. Apenas observou. A gaveta da mesa. Meio aberta.
 O mapa na parede. Torto.
-
 A pilha de livros no armário. Fora de ordem.
-
 Não eram mudanças grandes. Eram milímetros. Ângulos errados. Posições ligeiramente deslocadas.
 
-Mas Vogel via.
-Porque ele conhecia aquele espaço como conhecia a própria respiração. Cada objeto tinha lugar exato. Cada papel, ângulo preciso.
-
-E agora estava... errado.
+Mas Vogel via. Porque ele conhecia aquele espaço como conhecia a própria respiração. Cada objeto tinha lugar exato. Cada papel, ângulo preciso. E agora estava... errado.
 
 Caminhou devagar até a mesa. Abriu a gaveta lateral. Fundo falso levantado.
 
 Vazio.
 
-O mapa tinha sumido.
+*O mapa tinha sumido.*
 
-Vogel não gritou. Não quebrou nada. Não explodiu.
+Vogel não gritou. Não quebrou nada. Não explodiu. Apenas ficou ali. Imóvel. Olhos fixos na gaveta vazia. E então, algo mudou no rosto dele. Não era raiva. Era pior.
 
-Apenas ficou ali. Imóvel. Olhos fixos na gaveta vazia.
+*Era humilhação.*
 
-E então, algo mudou no rosto dele.
-
-Não era raiva. Era pior.
-
-Era humilhação.
-
-Alguém tinha entrado no seu santuário. No seu espaço. No lugar onde ele era ordem, controle, poder absoluto.
-
-E tinha tirado algo dele.
+Alguém tinha entrado no seu santuário. No seu espaço. No lugar onde ele era ordem, controle, poder absoluto.E tinha tirado algo dele.
 
 A mão de Vogel apertou a borda da mesa. Dedos ficaram brancos.
 
@@ -81,12 +66,6 @@ Dois soldados que estavam no corredor entraram correndo.
 
 Os soldados saíram correndo.
 
-Vogel ficou sozinho. Voltou para a janela. Olhou para o telhado onde eles tinham fugido.
-
-Quem quer que fossem... tinham cometido um erro.
-
-Tinham feito isso pessoal.
----
 
 ### Perseguição e o Primeiro Encontro
 James e Julian corriam pelos becos.
@@ -120,7 +99,9 @@ Entraram numa casa vazia. Cheiro de mofo.
 Porta da frente se abriu com estrondo.
 
 Soldados.
+
 — DA SIND SIE!
+
 James e Julian correram para os fundos. Escada. Subiram.
 
 Segundo andar. Janela.
@@ -141,6 +122,7 @@ Dez. Quinze. Vinte.
 Rifles apontados.
 
 — WAFFEN RUNTER! JETZT!
+
 James olhou ao redor. Calculou.
 
 Sem saída.
@@ -155,6 +137,7 @@ E então—
 Uma voz. Calma. Controlada. Em inglês perfeito:
 
 — Lower your weapons. Slowly.
+
 Os soldados abriram caminho.
 
 E Vogel apareceu.
@@ -165,7 +148,9 @@ Caminhou devagar até ficar a cinco metros de James e Julian.
 
 Estudou os dois. Analisou.
 
-— Canadian — disse, apontando para James com o queixo. — Pelo jeito de se mover. Pelo treinamento. — Depois olhou para Julian. — E italiano. Local. Resistência.
+— Canadian — disse, apontando para James com o queixo.  Pelo jeito de se mover. Pelo treinamento. — Depois olhou para Julian. 
+
+— E italiano. Local. Partisan.
 
 Vogel sorriu sem calor.
 
@@ -199,13 +184,15 @@ Metade dos soldados virou. Instinto.
 Julian aproveitou. Correu. Não para fugir.
 
 Para Vogel.
+
 — JULIAN, NO! — James gritou.
 
 Mas Julian já estava correndo. Direto para o comandante alemão.
 
 Soldados atiraram.
 
-BANG! BANG! BANG!
+*BANG! BANG! BANG!*
+
 Julian tropeçou. Bala no ombro. Continuou. Mais três passos.
 
 Soldados se moveram para proteger Vogel.
@@ -220,7 +207,8 @@ E então correu de volta para os soldados. Gritando. Atraindo atenção.
 
 Soldados atiraram.
 
-BANG! BANG! BANG!
+*BANG! BANG! BANG!*
+
 Julian caiu. Rolou. Levantou. Continuou gritando.
 
 — AQUI! VEM AQUI!
@@ -268,8 +256,6 @@ E continuou correndo.
 
 Porque parar significava desperdiçar o que Julian acabara de comprar com o próprio corpo.
 
----
-
 ### A Fuga de James
 James correu como nunca tinha corrido.
 
@@ -278,39 +264,24 @@ Pés batendo no chão. Pulmões queimando. Mapa dentro do casaco.
 Atrás dele, gritos:
 
 — DA! NOCH EINER!
+
 Tiros.
 
 BANG! BANG! BANG!
 
 Mas James não parou.
 
-Virou esquina. Outra rua. Beco. Muro. Pulou. Continuou.
+Virou esquina. Outra rua. Beco. Muro. Pulou. Continuou. Soldados tentando seguir. Mas ele era mais rápido. Mais desesperado. Chegou na borda da cidade. Trilha para o bosque.
 
-Soldados tentando seguir. Mas ele era mais rápido. Mais desesperado.
+Correu. Árvores. Finalmente. Mergulhou na mata. Galhos chicoteando. Raízes tentando derrubar.
 
-Chegou na borda da cidade. Trilha para o bosque.
-
-Correu.
-
-Árvores. Finalmente. Mergulhou na mata.
-
-Galhos chicoteando. Raízes tentando derrubar.
-
-Não parou.
-
-Mais fundo. Mais rápido.
+Não parou. Mais fundo. Mais rápido.
 
 Sons de perseguição ficaram para trás. Sumiram.
 
 Parou. Encostou numa árvore. Respiração rasgada.
 
-Olhou para trás.
-
-Nada. Sozinho.
-
-Pegou o mapa. Ainda ali. Intacto.
-
-Missão cumprida.
+Olhou para trás. Nada. Sozinho. Pegou o mapa. Ainda ali. Intacto. Missão cumprida.
 Mas o preço...
 
 Fechou os olhos.
@@ -319,11 +290,11 @@ Viu Julian empurrando ele.
 
 Viu Julian caindo.
 
-Viu Julian apontando: *vai*.
+Viu Julian apontando: vai.
 
 Socou a árvore. Uma vez. Forte. Nós dos dedos sangraram.
 
-— Fuck... — voz quebrando. — Fuck!
+— Fuck... 
 
 Não era vitória.
 
@@ -331,42 +302,21 @@ Era sobrevivência com culpa.
 
 Deslizou pela árvore. Sentou no chão. Mapa ainda no casaco.
 
-Missão cumprida.
-Mas não sentia nada. Nenhuma satisfação. Nenhum alívio.
+Missão cumprida. Mas não sentia nada. Nenhuma satisfação. Nenhum alívio.
 
 Só via Julian.
 
-*Julian gritando "VAI!"*
-
-*Julian criando distração.*
-
-*Julian sacrificando tudo.*
-
-James tinha feito missões difíceis antes. Tinha perdido homens antes. Miller tinha visto metade de sua unidade morrer em El Alamein. No treinamento no Canadá, três recrutas morreram em exercício de inverno.
+James tinha feito missões difíceis antes. Tinha perdido homens antes. No treinamento no Canadá, três recrutas morreram em exercício de inverno.
 
 Mas sempre conseguira separar.
 
-Missão de um lado. Emoção do outro.
-Era o que faziam soldados. Era o que o mantinha vivo. Quinze anos no exército. Quinze anos sobrevivendo porque nunca hesitava. Nunca olhava para trás. Nunca se importava demais.
+Missão de um lado. Emoção do outro.Era o que faziam soldados. Era o que o mantinha vivo. Quinze anos no exército. Quinze anos sobrevivendo porque nunca hesitava. Nunca olhava para trás. Nunca se importava demais.
 
-Dessa vez... não conseguia.
-Olhou para as próprias mãos. Tremiam.
+Dessa vez... não conseguia. Olhou para as próprias mãos. Tremiam.
 
 *"He made choice. Save mission."*
 
-Era verdade. Julian tinha escolhido. Tinha empurrado James. Tinha gritado para ir.
-
-Mas James também tinha escolhido.
-
-Tinha corrido. Tinha aproveitado a distração. Tinha deixado Julian para trás.
-
-Tático. Lógico. Correto.
-Mas não parecia correto.
-
-Parecia... errado.
-
 Pela primeira vez em quinze anos...
-
 ...parecia profundamente, terrivelmente errado.
 
 Pegou o mapa de novo. Manchado de sangue. Sangue de Julian.
@@ -377,13 +327,7 @@ Esse mapa salvaria centenas. Talvez milhares.
 
 Não sabia a resposta.
 
-E isso... isso o assustava mais que qualquer batalha.
-
 Levantou. Guardou o mapa. Respirou fundo.
 
 Tinha trabalho a fazer. Missão a completar.
 
-Mas algo tinha quebrado dentro dele.
-E sabia que nunca mais seria o mesmo.
-
----

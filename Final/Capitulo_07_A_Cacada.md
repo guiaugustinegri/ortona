@@ -69,25 +69,18 @@ Smith virou o rosto. As mãos dele tremiam. Ele tinha vinte e dois anos e achava
 
 — Continua — repetiu James, sem emoção. Não porque não sentisse nada. Mas porque sentir agora significava morrer depois.
 
-Miller pousou a mão no ombro de Smith por meio segundo. Não era consolo. Era ordem silenciosa: *guarda isso. Usa como combustível. Mas não para agora.*
+Miller pousou a mão no ombro de Smith por meio segundo. Não era consolo. Era ordem silenciosa: guarda isso. Usa como combustível. Mas não para agora.
 
 Smith engoliu seco. Desviou os olhos dos corpos. Seguiu em frente.
 
-Doyle passou por baixo de um dos enforcados sem olhar pra cima. Miller cerrou os dentes tão forte que a mandíbula doeu. Ninguém comentou. Ninguém precisava.
+Doyle passou por baixo de um dos enforcados sem olhar pra cima. Miller cerrou os dentes tão forte que a mandíbula doeu. Ninguém comentou. Ninguém precisava. 
 
-Todos entenderam a mesma coisa naquele momento:
+Todos entenderam a mesma coisa naquele momento: Eles não estavam mais avançando por território inimigo.
 
-Eles não estavam mais avançando por território inimigo.
-
-Estavam entrando no reino de alguém. Alguém que não precisava gritar para ser ouvido. Alguém que pendurava mortos como quem pendura bandeiras.
-
-E esse alguém ainda nem sabia que eles existiam.
-
-A partir dali, o ar não voltou ao normal. A terra continuou sufocada. As placas continuaram aparecendo. Os fios continuaram cortando o céu.
+Estavam entrando no reino de alguém. Alguém que não precisava gritar para ser ouvido. Alguém que pendurava mortos como quem pendura bandeiras. E esse alguém ainda nem sabia que eles existiam. A partir dali, o ar não voltou ao normal. A terra continuou sufocada. As placas continuaram aparecendo. Os fios continuaram cortando o céu.
 
 E, invisível mas presente em cada detalhe, em cada estrutura, em cada corpo — havia o rastro de um homem que transformava cidades em prisões.
 
-Oberst Heinrich Vogel.
 Eles ainda não sabiam o nome. Mas já conheciam a assinatura.
 
 ### Reconhecimento
@@ -145,37 +138,21 @@ Tentando se reposicionar. Tentando ficar mais escondido. Tentando se alojar melh
 
 — Smith, não... — começou Miller, mas baixo demais, tarde demais.
 
-Smith se mexeu. Rolou para o lado. O corpo dele bateu na mochila.
+Smith se mexeu. Rolou para o lado. O corpo dele bateu na mochila. E o cantil preso nela se soltou.
 
-E o cantil preso nela se soltou.
-
-Por uma fração de segundo, tudo ficou em câmera lenta.
-
-O cantil caindo.
-
-O metal girando no ar.
-
-A pedra esperando embaixo.
+O cantil caindo. O metal girando no ar. A pedra esperando embaixo.
 
 E então—
 
 CLANG.
 
-O som explodiu no silêncio da tarde como um sino de igreja.
+O som explodiu no silêncio da tarde como um sino de igreja. O jipe parou na hora. 
 
-O jipe parou na hora. Freios rangendo. Motor cortado.
-
-Tudo parou.
-
-James virou a cabeça para Smith. O olhar dele não carregava raiva. Nem decepção. Era cálculo puro. *Problema identificado. Agora resolver.*
+Primeiro o ardido dos Freios rangendo e o motor cortado.
 
 Smith estava branco. Congelado. Boca aberta para pedir desculpas.
+James levantou a mão. Um gesto rápido, firme como se dissesse SE PREPARA.
 
-James levantou a mão. Um gesto rápido, firme: *Sem tempo. Prepara.*
-
-Lá embaixo, vozes em alemão. Portas de jipe se abrindo. Botas tocando o chão.
-
-Tarde demais para evitar. Hora de lidar.
 
 ### A Perseguição
 — HALT!! — uma voz gritou em alemão, perto demais.
@@ -196,9 +173,9 @@ A primeira bala passou perto demais. A segunda derrubou um galho acima de Doyle.
 
 — COBERTURA! — gritou James.
 
-Se jogaram atrás de uma formação de pedras. O som aumentou. Múltiplos rifles. Pelotão inteiro.
+Recuando se alojaram atrás de uma formação de pedras. O som aumentou. Múltiplos rifles. Pelotão inteiro.
 
-Eles estavam marcados. Encurralados.
+Eles estavam marcados. 
 
 — Quantos? — gritou Doyle.
 
@@ -208,9 +185,7 @@ Eles estavam marcados. Encurralados.
 
 — FOCO! ATIRA! — cortou James, sem olhar para ele.
 
-Mais tiros. A terra explodia. O ar cheirava a pólvora.
-
-James fez a única pergunta que importava:
+Mais tiros. A terra explodia. O ar cheirava a pólvora. James fez a única pergunta que importava:
 
 — Tem saída?
 
@@ -225,10 +200,6 @@ Edwards apontou para a mata densa.
 James pensou por meio segundo — o suficiente.
 
 — Então é para lá que vamos.
-
-— E se for uma armadilha? — gritou Miller.
-
-— Se ficarmos aqui, não precisa de armadilha — disse James. — Vamos morrer de qualquer jeito.
 
 Ele puxou uma granada de fumaça, arrancou o pino com os dentes e a jogou.
 
@@ -295,14 +266,11 @@ Ele nem olhou.
 — NINGUÉM PARA! — disse entre os dentes. — NINGUÉM!
 
 ### O Paredão
-Eles continuaram subindo, mas a encosta terminou em um paredão irregular de rochas escuras.
-
-Não era um muro. Era um labirinto vertical — fendas que se abriam e fechavam sem lógica, pedras empilhadas em ângulos impossíveis, passagens que terminavam em precipícios súbitos. 
+Eles continuaram subindo, mas a encosta terminou em um paredão irregular de rochas escuras. Não era um muro. Era um labirinto vertical, fendas que se abriam e fechavam sem lógica, pedras empilhadas em ângulos impossíveis.
 
 Atrás deles, os alemães subiam em linha agressiva, ganhando terreno tiro após tiro. 
 
 James olhou para Smith, sangrando no chão, respirando cada vez mais fraco. Miller tentava estancar o sangue com as mãos. Doyle varria o terreno com os olhos procurando um caminho que não existia.
 
 Ali, naquela encosta esquecida entre o nada e lugar nenhum… eles iam morrer.
-
 ---

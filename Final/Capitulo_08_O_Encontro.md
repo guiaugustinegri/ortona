@@ -43,10 +43,13 @@ Eles tinham a vantagem do terreno, mas quem realmente decidiria se haveria morte
 
 Lorenzo ergueu a mão esquerda devagar, sem largar a arma com a direita.
 
-— Friends! — disse, com um inglês arranhado. — No shoot! No shoot!
+— Friends!  disse, com um inglês arranhado. 
+— No shoot! No shoot!
+
 James retrucou firme:
 
 — I said hands up!
+
 Ninguém cedeu.
 
 Três segundos sem respirar.
@@ -55,10 +58,10 @@ Dois segundos até a tragédia.
 
 Um segundo até a escolha.
 
-### 😰 O Grito
+### O Grito
 — AAAHHHH! — o grito do ferido rasgou a encosta.
 
-Smith estava piorando. Sangrando rápido demais.
+Smith estava piorando. Sangrando rápido demais. 
 
 Sem pensar, Lorenzo arregalou os olhos e baixou a arma. Não muito — meio palmo. Mas em guerra, meio palmo diz muito.
 
@@ -71,7 +74,6 @@ E teria matado…
 Do norte, vozes alemãs avançavam encosta acima. Rápidas. Ensandecidas. Caçando.
 
 Eles estavam quase em cima deles.
-
 
 O gatilho pesou. O mundo encolheu. Tudo virou decisão.
 
@@ -86,7 +88,8 @@ Era uma saída. Ou uma armadilha.
 
 James olhou para ele. Não entendeu a língua. Mas entendeu o olhar.
 
-A mente de James gritava: PENSA JAMES, PENSA JAMES
+A mente de James gritava: PENSA JAMES, PENSA JAMES.
+
 Por um instante, silenciou a lógica militar e ouviu outra coisa. Algo que ele não usava fazia muito tempo: confiança nas circunstâncias.
 
 Talvez nem fosse confiança. Era desespero.

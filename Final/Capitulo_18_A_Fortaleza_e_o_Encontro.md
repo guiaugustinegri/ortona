@@ -23,8 +23,6 @@ Os alemães lutaram por cada centímetro. Não recuavam. Não fugiam. Lutavam. M
 
 Vogel tinha treinado bem seus homens.
 
----
-
 ### Lorenzo e a Espera
 Lorenzo tentou avançar pela cidade no segundo dia.
 
@@ -98,7 +96,7 @@ Era saber que Julian estava lá, sozinho, esperando...
 
 ---
 
-### 🏴 O Oitavo Dia
+### O Oitavo Dia
 Amanhecer do oitavo dia.
 
 A artilharia canadense parou.
@@ -125,24 +123,14 @@ James assentiu. Pegou a própria arma. Mancava — bala de raspão na perna dias
 
 — Now we go.
 
----
-
 ### A Prefeitura Cercada
-Desceram para a cidade.
+Desceram para a cidade. Ortona estava irreconhecível. Prédios destruídos. Ruas cheias de escombros. Crateras de bombas. Fogo ainda queimando em alguns lugares.
 
-Ortona estava irreconhecível.
-
-Prédios destruídos. Ruas cheias de escombros. Crateras de bombas. Fogo ainda queimando em alguns lugares.
-
-Cheiro de pólvora. De morte. De guerra.
-
-Mas a cidade tinha caído.
+Cheiro de pólvora. De morte. De guerra. Mas a cidade tinha caído.
 
 Chegaram à prefeitura.
 
-Tanques canadenses cercavam o prédio. Soldados em posição. Rifles apontados.
-
-No segundo andar, movimento. Uniformes alemães nas janelas.
+Tanques canadenses cercavam o prédio. Soldados em posição. Rifles apontados. No segundo andar, movimento. Uniformes alemães nas janelas.
 
 Um oficial canadense gritou em alemão:
 
@@ -174,7 +162,6 @@ Jogou a Luger no chão.
 
 Som de metal batendo em pedra ecoou pela praça silenciosa.
 
----
 
 ### O Encontro
 James e Lorenzo ficaram frente a frente com Vogel.
@@ -199,19 +186,10 @@ Flashbacks vieram como tsunami.
 
 *A culpa. A culpa corroendo. A culpa queimando.*
 
-Mas não era apenas culpa.
+Mas não era apenas culpa. Era medo. Medo de que Vogel estivesse certo.
 
-Era medo.
+Medo de que James já tivesse se tornado isso. Frio. Desumano. Máquina de guerra. Medo de que Vogel fosse seu futuro.Um homem sem humanidade. Sem compaixão. Apenas ordem e destruição.Algo inerte. Vazio. Morto por dentro.
 
-Medo de que Vogel estivesse certo.
-
-Medo de que James já tivesse se tornado isso. Frio. Desumano. Máquina de guerra.
-
-Medo de que Vogel fosse seu futuro.
-
-Um homem sem humanidade. Sem compaixão. Apenas ordem e destruição.
-
-Algo inerte. Vazio. Morto por dentro.
 James puxou a pistola.
 
 Rápido. Instintivo.
@@ -220,7 +198,10 @@ Avançou para Vogel. Dois passos. Três.
 
 Ergueu a arma. Apontou para a cabeça de Vogel.
 
-— MALDITO! — gritou, voz rasgada. — MALDITO!
+— MALDITO! — gritou, voz rasgada. 
+
+— MALDITO!
+
 Soldados tensionaram. Rifles apontaram para James.
 
 Mas James não se importou. Estava tomado. Completamente tomado.
@@ -241,14 +222,10 @@ E então—
 Lorenzo gritou. Em italiano. Desesperado.
 
 — NON FARLO, JAMES! NON FARLO!
+
 James congelou.
 
 Dedo no gatilho. Meio segundo de puxar.
-
-Meio segundo de virar assassino.
-
-Meio segundo de se tornar Vogel.
-
 Recuou. Arma caindo. Quase desabou.
 
 Lorenzo o segurou.
@@ -257,22 +234,6 @@ Lorenzo o segurou.
 
 James olhou para as próprias mãos. Tremendo. Ainda sentindo o peso da arma.
 
-Tinha estado tão perto...
-
-Tão perto de cruzar a linha.
-
-Tão perto de virar o que Vogel era. Frio. Vazio. Máquina de guerra sem humanidade.
-
-E Lorenzo o tinha parado.
-O italiano que ele tinha deixado para trás. Que ele tinha sacrificado. Que tinha todo motivo para odiá-lo.
-
-Tinha acabado de salvá-lo.
-
-Não de bala. De algo pior.
-
-De si mesmo.
-
-James olhou para Lorenzo. Não conseguiu falar. Garganta apertada demais.
 
 Apenas assentiu. Lento. Pesado.
 
@@ -282,16 +243,10 @@ Lorenzo entendeu sem palavras.
 
 Soldados canadenses imediatamente avançaram. Cercaram Vogel. Algemaram.
 
-James respirou fundo. Exausto. Quebrado. Mas ainda humano.
+Lorenzo olhou para a prefeitura.
 
-E isso... isso valia mais que qualquer vitória.
-
-Olhou para a prefeitura.
-
-— Julian... ele disse que Julian deve estar no porão...
-
-— Então vamos buscá-lo — disse Lorenzo.
+— Julian...
 
 Os dois, apoiando um ao outro, correram para dentro da prefeitura.
 
----
+

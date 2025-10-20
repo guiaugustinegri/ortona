@@ -10,16 +10,16 @@ No bosque, James abriu o mapa roubado sobre uma pedra plana.
 
 Lorenzo, Enzo e mais seis homens da resistência se aproximaram.
 
-James apontou as marcações.
+James apontou as marcações 
 
-— German positions — disse, tocando os pontos. — Artillery. Machine guns. Sniper nests. Patrol routes.
+— German positions — disse, tocando os pontos e misturando inglês e uma tentativa de italiano. — Artilharia. Metralhadoras. Ninhos de atirador. Rotas de patrulha.
 
 Lorenzo olhou. Pela primeira vez desde que chegara, viu o valor do que Julian tinha pagado.
 
 Cada linha. Cada marcação. Cada símbolo.
 Aquilo não era apenas um mapa. Era a diferença entre vida e morte para centenas de soldados.
 
-— Canadian regiment come here — James apontou a costa sul. — Attack from sea. But if go direct... — traçou linha reta para Ortona — ... death. Vogel has crossfire. Three positions. Kill zone.
+— O regimento canadense vem por aqui — James apontou a costa sul. — Ataque pelo mar. Mas se forem direto... — traçou linha reta para Ortona — ... morte. Vogel tem fogo cruzado. Três posições. Zona de abate.
 
 — Mas com o mapa — Enzo murmurou — ... vocês podem evitar.
 
@@ -29,13 +29,13 @@ Aquilo não era apenas um mapa. Era a diferença entre vida e morte para centena
 
 James apontou para as defesas ao redor de Ortona.
 
-— Tanks. We need tanks. Infantry alone... no chance. City is fortress. But tanks... — bateu o dedo no mapa — ... tanks break walls. Open streets. Support soldiers.
+— Tanks. Precisamos de tanques. Infantaria sozinha... sem chance. A cidade é fortaleza. Mas tanques... — bateu o dedo no mapa — ... quebram paredes. Abrem ruas. Dão apoio.
 
 — E qual o problema? — perguntou Enzo.
 
 James traçou as rotas de acesso.
 
-— All roads blocked. Reinforced. Mines. Anti-tank barriers. — Olhou para cima. — Tanks cannot enter. Cannot reach city. Regiment go in... but tanks stay outside. And without tanks... — balançou a cabeça — ... massacre.
+— Todas as estradas bloqueadas. Reforçadas. Minas. Barreiras antitanque. — Olhou para cima. — Tanques não entram. Não alcançam a cidade. O regimento entra... mas os tanques ficam fora. E sem tanques... — balançou a cabeça — ... massacre.
 
 Enzo olhou para o mapa. Estudou as defesas.
 
@@ -43,19 +43,19 @@ Enzo olhou para o mapa. Estudou as defesas.
 
 James se aproximou. Olhou.
 
-— What is?
+— O que é?
 
 — Antiga estrada dos pescadores — disse Enzo. — Desativada há anos. Os alemães reforçaram, mas...
 
 James analisou a marcação. Os olhos brilharam.
 
-— Is close. Very close to us.
+— É perto. Muito perto de nós.
 
 — E passa por aqui. — Enzo traçou a rota com o dedo. — Leva direto para o lado norte de Ortona. Evita as defesas principais.
 
 James estudou intensamente. Mediu distâncias. Calculou.
 
-— If we open... small breach... — murmurou, mais para si mesmo. — Explosives. Clear barriers. Tanks go through...
+— Se abrirmos... uma brecha pequena... — murmurou, mais para si mesmo. — Explosivos. Limpar as barreiras. Os tanques passam...
 
 Lorenzo entendeu.
 
@@ -67,7 +67,7 @@ Silêncio. Depois Lorenzo falou:
 
 — Mas a gente não tem explosivos suficientes pra—
 
-— We have him — James apontou para o acampamento. — Smith. Demolitions expert. He carry explosives. Not much, but... maybe enough. Small breach. Tanks do rest.
+— Temos ele — James apontou para o acampamento. — Smith. Especialista em demolições. Ele carrega explosivos. Não muitos, mas... talvez baste. Brecha pequena. Os tanques fazem o resto.
 
 Lorenzo olhou para o mapa. Para a estrada antiga. Para a possibilidade real de fazer diferença.
 
@@ -83,22 +83,21 @@ Passos apressados. Miller apareceu correndo entre as árvores. Carregava o rádi
 
 James levantou rápido.
 
-— You contacted regiment?
+— Você contatou o regimento?
 
-— Yes! — Miller colocou o rádio no chão. — Find high point. West side. Clear signal. They asking for recon report!
+— Sim! — Miller colocou o rádio no chão. — Achei um ponto alto. Lado oeste. Sinal limpo. Eles estão pedindo relatório de reconhecimento!
 
 James olhou para Lorenzo. Depois para o mapa. Depois para Miller.
 
-— Tell them... — respirou fundo — ... we found route for tanks.
+— Diz para eles... — respirou fundo — ... encontramos a rota para os tanques.
 
 Lorenzo fechou os olhos.
 
 Isso muda tudo.
 Agora não era apenas sobreviver. Era vencer.
 
----
 
-### 🤝 Paz Armada
+### Paz Armada
 Quando Miller se afastou para transmitir a mensagem, Lorenzo ficou parado olhando para o mapa.
 
 James se aproximou. Devagar. Como quem sabe que está pisando em gelo fino.
@@ -107,7 +106,7 @@ James se aproximou. Devagar. Como quem sabe que está pisando em gelo fino.
 
 Lorenzo não olhou.
 
-— If you want... hit me. Do it. — James falou baixo. — I know you hate me. I know what I did was... — respirou fundo — ... I left him.
+— Se você quiser... me acerta. Vai. — James falou baixo. — Eu sei que você me odeia. Eu sei que o que eu fiz foi... — respirou fundo — ... eu deixei ele.
 
 Lorenzo finalmente virou. Olhos vermelhos. Mas não atacou.
 
@@ -115,7 +114,7 @@ Lorenzo finalmente virou. Olhos vermelhos. Mas não atacou.
 
 James assentiu. Não havia defesa possível.
 
-— I know.
+— Eu sei.
 
 — Mas... — Lorenzo olhou para o mapa. Para a brecha. Para a possibilidade real de salvar centenas de vidas. — ... eu preciso de você. Eles precisam de você. — Apontou para o acampamento. Para os tanques que viriam. — Então a gente trabalha junto. Não como amigos. Como... aliados.
 
@@ -125,7 +124,7 @@ Fez pausa. Encarou James.
 
 James manteve o olhar.
 
-— Understood.
+— Entendido.
 
 Lorenzo assentiu uma vez. Virou as costas.
 
@@ -136,9 +135,4 @@ Era pragmatismo. Era necessidade. Era o que a guerra exigia.
 Mas era o suficiente.
 
 Por agora.
-
----
-
- Vogel tinha o prisioneiro. Mas a resistência tinha o mapa. E agora... ambos os lados preparavam o xeque-mate. A questão era: quem sacrificaria mais peças para vencer?
----
 

@@ -1,369 +1,553 @@
-## CAPÍTULO 17 - A Corrida e o Rugir ##
+## CAPÍTULO 17 - A Resistência e o Rugir ##
 
 📍 Local: Bosque de Ortona / Antiga Estrada dos Pescadores  
 📅 Data: 1943, após a explosão
 
 ---
 
-### A Corrida Desesperada
-Correram como nunca.
+### O Retorno
 
-De volta pelo terreno rochoso. De volta para o bosque.
+A explosão ainda ecoava nos ouvidos deles quando começaram a correr de volta.
 
-Mas no caminho...
+James na frente. Lorenzo no meio. Miller na retaguarda.
 
-Tiros. Mais altos. Mais próximos.
+Através do terreno rochoso. De volta ao bosque.
 
-O bosque tinha caído.
-— MAIS RÁPIDO! — James gritou.
+Miller estava no rádio enquanto corria:
 
-Correram mais.
+— *Command, this is Recon Five! Breach confirmed! Repeat: breach confirmed! Route is clear!*
 
-Lorenzo na frente. Miller no meio. James cobrindo a retaguarda.
+— *Copy, Recon Five! Tank column entering route! ETA eight minutes!*
 
-De repente—
+Oito minutos.
 
-BANG!
-Bala de raspão pegou a perna de James. Desequilibrou. Tropeçou. Caiu. Bateu a cabeça numa pedra.
+James parou de correr. Virou. Olhou para Lorenzo e Miller.
 
-Apagou.
+— Precisamos voltar. Agora.
 
-Lorenzo parou. Virou.
+— O acampamento... — disse Lorenzo.
 
-— JAMES!
-James estava no chão. Inconsciente. Sangue na perna — raspão, mas sangrando. Sangue na cabeça — a pedra tinha aberto um corte.
+— Não é o acampamento — James cortou, voz dura. — É o bosque.
 
-Alvo fácil.
+Lorenzo franziu a testa.
 
-Lorenzo olhou para frente. Para a cidade. Para a missão que ainda não estava completa.
+— O quê?
 
-James acordaria. Poderia continuar sozinho. Poderia—
+James apontou para o bosque à frente. Para onde os tiros vinham.
 
-Não.
-Lorenzo sabia que era mentira.
+— Se os alemães tomarem o bosque, eles se posicionam. Unidades anti-tanque. Naquele ponto alto ali. — Apontou para uma elevação com vista direta para a brecha. — Tanques vão entrar direto numa emboscada. Vão ser massacrados.
 
-James sozinho, ferido, inconsciente... estava morto.
+Lorenzo entendeu. O sangue gelou.
 
-Dilema moral.
-Avançar e completar missão. Ou voltar e salvar James.
+— Então a brecha—
 
-Missão ou homem.
+— Não serve de nada se os alemães controlarem o bosque — James completou. — Nós abrimos o caminho. Agora precisamos segurá-lo.
 
-Lorenzo cerrou os dentes.
+Miller baixou o rádio. Olhou para o bosque. Para os tiros. Para a fumaça.
 
-— Miller! Vai pra cidade! Guia os tanques!
-— Mas—
+— São três homens contra quantos?
 
-— VAI!
-Miller olhou para James caído. Para Lorenzo exposto. Para os alemães avançando.
+— Não importa — disse James. — Temos que segurar por oito minutos. Até os tanques chegarem.
 
-Sem comando. Sem James.
+Lorenzo pegou o rifle. Verificou munição.
 
-Mas sabia o que tinha que fazer.
-
-Ganhar tempo. Pros tanques chegarem.
-Pegou todas as granadas que tinha. Quatro. Arranquei os pinos. Uma. Duas. Três. Quatro.
-
-Jogou com toda força. Longe. Criando barreira de explosões.
-
-BOOM. BOOM. BOOM. BOOM.
-Terra voou. Alemães se jogaram no chão. Recuaram.
-
-Miller não pensou. Avançou. Correndo. Gritando. Atirando.
-
-Sozinho. Exposto. Sabendo que poderia morrer.
-
-Mas os alemães recuaram. Levemente. Instintivamente.
-
-Deu alguns segundos. Talvez um minuto.
-
-BANG.
-Tiro de cima. Alemão tentando flanquear caiu.
-
-Doyle.
-Dando cobertura de longe. Via sniper. Preciso. Mortal.
-
-Miller se jogou atrás de uma rocha. Respiração pesada. Mãos tremendo.
-
-Alemães tentaram avançar de novo.
-
-BANG. Doyle derrubou um.
-
-Miller atirou. Derrubou outro.
-
-BANG. Doyle de novo.
-
-Dois homens. Segurando o avanço. Contra trinta.
-
-Não iam vencer. Mas podiam ganhar tempo.
-
-E tempo era tudo que importava.
-
-Miller correu.
-
-Lorenzo voltou. Exposto. Sob fogo. Agarrou James. Puxou. Pesado. Muito pesado.
-
-Arrastou para trás de uma árvore. Cobriu James com o próprio corpo.
-
-Tiros comendo casca de árvore. Lascas voando.
-
-— Acorda... acorda, porra... — Lorenzo sussurrou, checando pulso.
-
-Vivo. James estava vivo.
-
-Mas inconsciente.
+— Então vamos.
 
 ---
 
-### Tudo Perdido
-Da posição deles, Lorenzo conseguia ver.
+### O Bosque Sitiado
 
-O acampamento. Alemães chegando de todos os lados. Fogos. Explosões.
+Chegaram ao acampamento.
 
-E na estrada...
+O que viram era caos.
 
-Movimento alemão também.
+Alemães atacando de todos os lados. Sul. Leste. Norte.
 
-Eles tinham descoberto a brecha.
-Estavam se posicionando. Preparando emboscada.
+Doyle estava em posição elevada, atirando. Edwards ao lado dele, cobrindo flancos.
 
-*Os tanques vão entrar direto numa armadilha.*
+Smith, mesmo ferido, estava carregando munição para eles.
 
-*Tudo estaria perdido.*
+BANG. BANG. BANG.
 
-Lorenzo olhou para James inconsciente. Para o acampamento sob ataque. Para a estrada onde os tanques iriam morrer.
+Tiros constantes. Alemães caindo. Mas mais vindo.
 
-Não ia dar tempo.
-Alemães iam antecipar. Tanques seriam destruídos. Regimento massacrado. O que era brecha viraria cemitério.
+— JAMES! — gritou Doyle ao vê-los chegar. — Achei que tivessem morrido!
 
-E então ouviu.
+— Ainda não! — James gritou de volta. — Status?
 
-BANG.
-Um alemão caiu. Longe. Tiro preciso.
+— Mal! Eles estão avançando pelo sul! Não sei quanto tempo conseguimos segurar!
 
-BANG.
-Outro caiu.
+James olhou para a posição. Calculou rapidamente.
 
-Lorenzo olhou para cima. Para uma posição elevada.
+— Precisamos de oito minutos!
 
-Doyle.
-O irlandês estava lá. Rifle na mão. Atirando. Derrubando alemães um por um.
+— OITO MINUTOS? — Doyle gritou. — Não sei se temos dois!
 
-James começou a se mexer. Gemeu. Abriu os olhos.
+— TEM QUE TER! — James rugiu. — Se eles tomarem essa posição, alemães vão emboscar os tanques! Tudo que fizemos foi pra nada!
 
-— O quê... o que...
+Lorenzo correu para a posição sul. A mais crítica. Alemães a menos de cinquenta metros.
 
-— Você levou tiro — disse Lorenzo. — Bateu a cabeça. Fica quieto.
-
-James olhou ao redor. Entendeu a situação.
-
-— Você... voltou...
-
-— Cala a boca.
-
-James tentou se levantar. Lorenzo o segurou.
-
-— Não dá! Você mal consegue ficar de pé!
-
-— Acampamento... — James apontou. — Eles precisam...
-
-Mais tiros. Doyle derrubando mais alemães. Mas eram muitos. Muito mais.
-
-James forçou-se a sentar. Pegou o rifle. Mesmo ferido, mesmo tonto, apontou.
+Deitou-se. Mirou.
 
 BANG.
 
 Alemão caiu.
 
-— Ganha tempo — disse James, voz rouca. — Ganhar tempo... para os tanques...
+BANG.
 
-Lorenzo entendeu.
+Outro caiu.
 
-Pegou a própria arma. Atirou.
+James assumiu posição leste. Miller montou o rádio e assumiu a oeste.
 
-Doyle lá em cima. James e Lorenzo na posição baixa. Três homens. Contra trinta. Quarenta.
+Cinco homens. Segurando três frentes.
 
-Mas cada segundo importava.
+Contra quarenta alemães.
 
-Cada alemão derrubado era mais um segundo.
+---
+
+### Contra o Tempo
+
+Os minutos eram eternos.
 
 BANG. BANG. BANG.
 
-Alemães avançavam. Mas devagar. Com cautela. Porque três atiradores bem posicionados eram perigosos.
+Lorenzo atirava. Recarregava. Atirava.
 
-Um minuto ganho.
+Cada bala tinha que contar. Cada tiro tinha que acertar.
+
+Alemães avançavam. Mesmo com baixas, avançavam.
+
+Determinados. Organizados. Mortais.
+
+— GRANADA! — gritou Edwards.
+
+Todos se jogaram.
+
+BOOM.
+
+Terra voou. Lorenzo sentiu estilhaços passando perto da cabeça.
+
+Levantou. Sacudiu a poeira. Voltou a atirar.
+
+— Quanto tempo? — gritou para Miller.
+
+— CINCO MINUTOS!
+
+Cinco minutos. Uma eternidade.
+
+Lorenzo viu movimento à esquerda. Alemães tentando flanquear.
+
+— James! Flanqueando pela esquerda!
+
+James girou. Atirou. Derrubou dois.
+
+Mas mais vinham.
+
+Sempre mais.
+
+— NÃO CONSIGO SEGURAR AQUI! — gritou Edwards. — SÃO MUITOS!
+
+— SEGURA! — James rugiu. — MAIS QUATRO MINUTOS!
+
+BANG. BANG. BANG.
+
+Doyle estava atirando sem parar. Cada tiro, um alemão caindo. Mas ele era apenas um homem. Um rifle. Contra dezenas.
+
+— GRANADA DE NOVO!
+
+BOOM.
+
+Mais perto dessa vez. Lorenzo foi jogado para trás. Bateu em uma árvore. Dor aguda nas costas.
+
+Levantou cambaleando. Pegou o rifle.
+
+Sangue no rosto. Ouvido zunindo.
+
+Mas continuou atirando.
+
+*Tem que segurar. Só mais um pouco.*
+
+---
+
+### James Cai
+
+James estava recarregando quando viu.
+
+Alemães avançando pelo flanco direito. Posição descoberta. Se passassem ali, flanqueavam todo o acampamento.
+
+Sem pensar, correu.
+
+Sozinho. Exposto.
+
+Jogou-se atrás de uma rocha. Começou a atirar.
+
+BANG. BANG. BANG.
+
+Derrubou três. Quatro.
+
+Mas havia mais.
+
+Recarregou. Mãos rápidas. Treinadas.
+
+Levantou para atirar—
+
+BANG.
+
+Bala pegou sua perna. De raspão. Mas suficiente.
+
+Perna cedeu. James caiu. Bateu a cabeça numa pedra.
+
+Visão escureceu. Mundo girando.
+
+Tentou levantar. Não conseguiu.
+
+*Levanta... levanta...*
+
+Mas o corpo não obedecia.
+
+Viu alemães avançando. Rifles apontados.
+
+*Acabou.*
+
+---
+
+### Lorenzo Escolhe
+
+Lorenzo viu James cair.
+
+Do outro lado do acampamento. A cinquenta metros de distância.
+
+Sozinho. Exposto. Alemães avançando.
+
+*Morto em segundos.*
+
+Lorenzo olhou para a frente. Para a posição sul que estava segurando. Crítica. Essencial.
+
+Se abandonasse, alemães romperiam. Tomariam o bosque.
+
+Tudo perdido.
+
+Mas James...
+
+*Escolha impossível.*
+
+*Missão ou homem.*
+
+*Centenas de vidas ou uma.*
+
+Lorenzo cerrou os dentes.
+
+Gritou para Edwards:
+
+— EDWARDS! SEGURA AQUI!
+
+— O QUÊ? NÃO CONSIGO—
+
+— SEGURA!
+
+E correu.
+
+Através do fogo cruzado. Através das balas. Através do inferno.
+
+Cinquenta metros que pareciam mil.
+
+Balas comendo a terra ao redor dele. Uma passou tão perto que sentiu o calor.
+
+Mas não parou.
+
+Chegou até James. Agarrou. Puxou para trás da rocha.
+
+Tiros comendo a pedra. Lascas voando.
+
+Lorenzo cobriu James com o próprio corpo.
+
+— Acorda... — sussurrou, checando pulso. — Acorda, James...
+
+Vivo. James estava vivo.
+
+Mas inconsciente.
+
+Lorenzo pegou o rifle de James. O próprio. Um em cada mão.
+
+Levantou. Começou a atirar. Os dois rifles. Alternando.
+
+BANG. BANG. BANG. BANG.
+
+Mantendo os alemães recuados. Cobrindo a posição.
+
+Sozinho.
+
+---
+
+### Doyle e o Sacrifício
+
+Doyle viu Lorenzo isolado. Viu Edwards lutando para segurar o sul sozinho.
+
+Viu que iam perder.
+
+Olhou para Smith. Ferido. Mas vivo.
+
+— Se eu não voltar... — começou.
+
+— Cala a boca — disse Smith.
+
+Doyle sorriu.
+
+Pegou todas as granadas que tinha. Quatro. Pesadas. Mortais.
+
+— Cobrindo Lorenzo! — gritou para Miller.
+
+E correu.
+
+Para o meio do fogo. Para a posição mais avançada. Para onde os alemães convergiam.
+
+Chegou a uma elevação. Visão clara.
+
+Viu os alemães. Dezenas. Avançando.
+
+Arrancou o pino da primeira granada. Jogou.
+
+BOOM.
+
+Segunda.
+
+BOOM.
+
+Terceira.
+
+BOOM.
+
+Quarta.
+
+BOOM.
+
+Explosões criaram barreira. Alemães recuaram. Desorientados.
+
+Doyle começou a atirar. Precisão mortal. Um tiro. Uma morte.
+
+BANG. Alemão caiu.
+
+BANG. Outro.
+
+BANG. Outro.
+
+Mas havia muitos. Muitos demais.
+
+Bala pegou seu ombro. Doyle girou. Caiu de joelhos.
+
+Levantou. Continuou atirando.
+
+*Só mais um pouco.*
+
+*Só segurar mais um pouco.*
+
+---
+
+### Última Resistência
+
+Miller largou o rádio. Pegou o rifle. Foi ajudar Edwards.
+
+Edwards estava quase sem munição. Recuando. Prestes a ceder.
+
+— AGUENTA! — Miller gritou, atirando. — FALTA POUCO!
+
+— QUANTO?
+
+— DOIS MINUTOS!
 
 Dois minutos.
 
-Três.
-
-Mas não seria suficiente.
-
-Alemães flanquearam. Granadas explodiram perto. Terra voou.
-
-Lorenzo olhou para James.
+Edwards olhou para os alemães. Depois para Miller.
 
 — Não vai dar...
 
-James recarregou. Atirou de novo.
+— VAI DAR! — Miller atirou de novo. — TEM QUE DAR!
 
-— Keep... shooting...
+Lorenzo estava com James ainda inconsciente. Sozinho na posição. Munição acabando.
 
-Mais alemães. Avançando. Cercando.
+Cinco balas.
 
-Acabou.
-Lorenzo aceitou. Pelo menos tinham tentado. Pelo menos—
+Quatro.
 
-E então, no momento mais desesperado, quando tudo parecia perdido...
+Três.
+
+Alemães cercando. Vinte metros. Quinze.
+
+*Acabou.*
+
+Lorenzo olhou para James. Para o homem que tinha salvado.
+
+*Pelo menos tentei.*
+
+Última bala. Atirou.
+
+BANG.
+
+Alemão caiu.
+
+Lorenzo jogou o rifle. Pegou a pistola de James.
+
+Seis tiros. Só isso que tinha.
+
+Alemães a dez metros.
+
+Lorenzo levantou. Apontou.
+
+*Vem.*
 
 ---
 
-### 🎆 O RUGIR
-Um som.
+### O RUGIR
 
-Distante. Baixo. Como trovão no horizonte.
+E então...
 
-Rummmmm...
-James congelou. Conhecia esse som.
+Som.
+
+Distante. Grave. Profundo.
+
+RUMMMMM...
+
+Terra tremendo.
 
 RUMMMMMMM...
-Mais alto. Terra tremendo.
 
-RUMMMMMMMMMM...
-E então todos viram.
+Todos pararam. Alemães. Canadenses. Todos.
 
-Pela estrada. Através da brecha.
+Olharam.
+
+E viram.
+
+Pela brecha. Através da estrada.
 
 Tanques.
+
 Não três. Não cinco.
 
-Vinte.
+**Vinte.**
+
 Vinte monstros de metal e fogo.
 
-Canhões girando. Metralhadoras montadas. Bandeira canadense tremulando.
+Rugindo como trovões.
 
-O primeiro tanque avançou pela brecha. Virou o canhão.
-
-BOOOOOM.
-Posição alemã na estrada desintegrou.
+O primeiro tanque virou o canhão para o bosque.
 
 BOOOOOM.
+
+Posição alemã desintegrou.
+
+BOOOOOM.
+
 Segundo tanque. Outra posição destruída.
 
-Os alemães tentaram recuar. Reposicionar. Mas os tanques eram muitos. Rápidos demais. Poderosos demais.
+Os alemães tentaram recuar. Mas não havia para onde ir.
 
 BOOM. BOOM. BOOM. BOOM.
-Canhões disparando em sequência. Como tambores de guerra. Como trovões de vingança.
 
-Metralhadoras abrindo fogo. Alemães caindo. Fugindo. Morrendo.
+Canhões disparando. Metralhadoras abrindo fogo.
 
-Três tanques viraram para o acampamento. Avançaram. Esmagaram posições alemãs. Limparam o bosque em minutos.
+Alemães caindo. Fugindo. Morrendo.
 
-Lorenzo estava de pé. Olhos arregalados. Lágrimas descendo sem perceber.
+Três tanques viraram para o bosque. Limparam as posições em minutos.
 
-— Eles... eles vieram...
+Lorenzo caiu de joelhos. Pistola escorregando da mão.
 
-James ao lado dele. Apoiado na árvore. Ferido. Sangrando. Mas sorrindo.
+Respiração pesada. Corpo tremendo.
 
-— We did it... — voz quebrando, em inglês, como se fosse a única forma de expressar o impossível. — We actually... did it...
+*Conseguimos.*
+
+Doyle desceu da posição. Sangrando do ombro. Mas vivo. Sorrindo.
+
+Edwards e Miller correram até Lorenzo. Abraçaram. Rindo. Chorando.
+
+Smith chegou mancando. Olhando para os tanques. Para a salvação.
+
+— Funcionou... — murmurou. — Porra... funcionou...
+
+James começou a se mexer. Gemeu. Abriu os olhos.
+
+— Nós... conseguimos? — voz rouca.
+
+Lorenzo olhou para ele. Sorriu. Lágrimas descendo.
+
+— Conseguimos.
+
+---
+
+### O Rugir da Vitória
+
+Os tanques continuaram descendo.
+
+Passaram pelo acampamento. Pela brecha. Em direção a Ortona.
+
+Mais tanques. Mais infantaria. Centenas de soldados.
+
+E eles tinham segurado o caminho.
+
+Os seis homens ficaram ali. Feridos. Exaustos. Sangrando.
+
+Mas vivos.
+
+Doyle apoiado em Edwards. Smith sentado, perna esticada. Miller no rádio, dando confirmação final.
+
+James e Lorenzo, lado a lado, observando.
+
 O rugir dos tanques preencheu o vale. Som de salvação. Som de vitória.
 
-Doyle desceu da posição. Correu até eles. Abraçou Lorenzo. Depois James.
+James olhou para Lorenzo.
 
-— PORRA! OLHA ISSO! — gritou, rindo e chorando ao mesmo tempo.
+— You saved me — disse, voz embargada.
 
-Os tanques continuaram avançando. Passaram pelo acampamento. Desceram em direção a Ortona.
+— Você teria feito o mesmo — Lorenzo respondeu.
 
-Mais tanques. Infantaria atrás. Centenas de soldados. Milhares.
+James sorriu fraco.
 
-A campanha canadense tinha chegado.
-E eles tinham aberto o caminho.
+— Yeah. I would.
 
-Lorenzo caiu de joelhos. Exausto. Emocionado. Vivo.
+Lorenzo respirou fundo. Pela primeira vez em dias, permitiu-se sentir alívio.
 
-James deslizou pela árvore. Sentou. Encostou a cabeça. Fechou os olhos.
+Só por um segundo.
 
-Não era alívio. Era mais que isso.
+E então lembrou.
 
-Era realização. Era propósito. Era saber que cada sacrifício, cada dor, cada perda...
-
-...tinha valido a pena.
-Miller apareceu correndo. Rádio nas costas. Rindo. Chorando.
-
-— CONSEGUIMOS! PORRA, CONSEGUIMOS!
-Smith chegou mancando, apoiado por Edwards. Olhou para os tanques. Para a brecha. Para as explosões ao longe.
-
-— Meus explosivos... — murmurou, voz embargada. — Funcionou...
-
-— Mais que funcionou — disse Lorenzo, levantando. — Você salvou... — olhou para os tanques — ... salvou todos nós.
-
-Os seis homens ficaram ali. Feridos. Exaustos. Mas vivos.
-
-Observando os tanques descenderem para Ortona.
-
-Observando a batalha que ainda viria.
-
-Lorenzo sorriu. Por um segundo. Pela primeira vez em dias, permitiu-se sentir alívio.
-
-Mas então lembrou.
-
-Julian.
-Preso. Sozinho. Esperando.
+*Julian.*
 
 O sorriso desapareceu.
 
-Num impulso, Lorenzo começou a andar. Depois correr. Em direção à cidade.
+Lorenzo levantou. Olhou para a cidade. Para onde os tanques avançavam.
 
-— Lorenzo! — James gritou.
+*Julian está lá. Sozinho. Esperando.*
 
-Mas Lorenzo não parou. Pernas movendo. Coração acelerado.
+Num impulso, começou a andar. Depois correr.
 
-*Julian está lá. Preciso—*
+— Lorenzo! — James gritou, forçando-se a levantar.
 
-James se forçou a levantar. Apoiado em Doyle. Gritou mais alto:
+Mas Lorenzo não parou. Pernas movendo. Coração disparado.
+
+*Preciso chegar até ele. Preciso—*
 
 — LORENZO! PARA!
-Lorenzo parou. Ofegante. A dez metros de distância.
 
-Olhou para frente. Para Ortona. Para onde os tanques avançavam. Onde alemães ainda lutavam. Onde cada rua era zona de guerra.
+Lorenzo parou. A vinte metros. Ofegante.
+
+Olhou para a cidade. Para Ortona. Para onde a batalha ainda rugia.
 
 Impossível.
-Se descesse agora, morreria no caminho. Bala perdida. Granada. Fogo cruzado.
 
-Não chegaria nem perto de onde Julian estava.
+James mancou até ele. Segurou seu ombro.
 
-James chegou mancando até ele.
+— You cannot. Not yet — disse, firme mas compreensivo. — Tanks need clear city first. You go now... you die on the way.
 
-— You cannot — disse, voz firme mas compreensiva. — Not yet. Tanks need clear city first. Then... then we go.
-
-Lorenzo olhou para a cidade. Mãos tremendo. Punhos cerrados.
+Lorenzo olhou para suas mãos. Tremendo.
 
 — Ele está lá... sozinho...
 
-— I know. — James colocou a mão no ombro de Lorenzo. — But if you die on way... he die alone anyway. You wait. We wait. Then we go together.
+— I know — James apertou o ombro. — But if you die trying... he die alone anyway. We wait. Then we go. Together.
 
-Lorenzo respirou fundo. Lágrimas de frustração nos olhos.
+Lorenzo fechou os olhos. Respirou fundo.
 
 Sabia que James estava certo.
 
-Mas esperar... esperar enquanto Julian estava lá...
+Mas esperar...
 
 Era a coisa mais difícil que já tinha feito.
 
-— Quanto tempo? — perguntou, voz quebrando.
-
-James olhou para os tanques avançando.
-
-— One day. Maybe two. They clear main routes. Then we enter.
-
-Lorenzo olhou para o céu. Fechou os olhos.
-
-— Aguenta, Julian — murmurou. — Só aguenta mais um pouco. Eu vou te buscar. Eu prometo.
-Ficou ali. Parado. Observando os tanques descenderem.
-
-Esperar.
-Era tudo que podia fazer.
-
-E era a coisa mais dolorosa do mundo.
-
----

@@ -120,7 +120,7 @@ Julian fechou os olhos. Lágrimas descendo.
 
 ---
 
-### 🪖 Os Que Ficaram
+### Os Que Ficaram
 Enquanto médicos levavam Julian, Lorenzo caminhou pela praça.
 
 Ortona destruída. Escombros. Fogo. Crateras. Mas livre.
@@ -168,47 +168,9 @@ El Alamein tinha levado metade de sua unidade. Mas Ortona...
 
 Ortona, ele tinha trazido todos de volta.
 
-Todos.
 ---
 
-Perto do posto médico, Smith estava sentado numa caixa de munição vazia. Ombro ainda enfaixado. Pálido. Mas olhando para a brecha ao longe.
-
-A brecha que seus explosivos tinham aberto.
-
-Edwards se aproximou. O atirador silencioso. Dezessete alvos confirmados. Agora vinte e três.
-
-Sentou ao lado de Smith. Não falou nada.
-
-Os dois apenas olharam para a cidade.
-
-Smith quebrou o silêncio:
-
-— Achei... achei que não ia servir pra nada nessa missão.
-
-Edwards olhou para ele.
-
-— You opened the way — disse, simples. — Hundreds came through because of you.
-
-Smith respirou fundo. Assentiu.
-
-Pela primeira vez desde que errara no Cap 7...
-
-...se permitiu acreditar que tinha feito diferença.
-
-Doyle apareceu mancando. Ferimento na perna — estilhaço de granada. Mas sorrindo.
-
-— Os bastardos fugiram — disse, rindo. — Vogel se rendeu. Acabou.
-
-Smith sorriu de volta.
-
-— Acabou.
-
-Os quatro — Miller, Edwards, Doyle, Smith — ficaram ali. Sentados. Olhando para Ortona.
-
-
----
-
-### 🌅 O Amanhecer
+### O Amanhecer
 Levaram Julian para o posto médico improvisado.
 
 Médicos o examinaram. Desnutrido. Desidratado. Infecção no ombro. Mas vivo. Recuperável.
