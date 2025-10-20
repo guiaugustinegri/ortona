@@ -70,6 +70,27 @@ const READER_CONFIG = {
     }
 };
 
+// ===== AJUSTE AUTOMÁTICO DE CAMINHOS (LOCAL vs RENDER) =====
+// Local: usa arquivos originais nas pastas da raiz (../Final e ../trilha sonora)
+// Render: usa cópias dentro de leitor/ (capitulos/ e trilha sonora/)
+(function() {
+    const isLocal = (
+        window.location.hostname === 'localhost' ||
+        window.location.hostname === '127.0.0.1' ||
+        window.location.protocol === 'file:'
+    );
+
+    if (isLocal) {
+        READER_CONFIG.chaptersPath = '../Final/';
+        READER_CONFIG.musicConfig.musicPath = '../trilha sonora/';
+        // Também ajustar caminhos absolutos de tracks se necessário
+        READER_CONFIG.musicConfig.tracks = READER_CONFIG.musicConfig.tracks.map(t => ({
+            ...t,
+            file: t.file.startsWith('trilha sonora/') ? ('../' + t.file) : t.file
+        }));
+    }
+})();
+
 // ===== INSTRUÇÕES DE CONFIGURAÇÃO =====
 /*
 COMO CONFIGURAR MÚSICAS POR CAPÍTULOS:
