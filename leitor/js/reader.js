@@ -56,6 +56,9 @@ const elements = {
     currentTrackName: document.getElementById('current-track-name'),
     currentTrackChapters: document.getElementById('current-track-chapters')
 };
+// Elementos auxiliares (podem não existir em todas as páginas)
+elements.mobileMusicHint = document.getElementById('mobile-music-hint');
+elements.mobileMusicEnable = document.getElementById('mobile-music-enable');
 
 // ===== INICIALIZAÇÃO =====
 document.addEventListener('DOMContentLoaded', function() {
@@ -127,14 +130,25 @@ function setupEventListeners() {
     elements.shareChapter.addEventListener('click', shareChapter);
     
     // Player de música
-    elements.musicToggle.addEventListener('click', toggleMusicPanel);
+    if (elements.musicToggle) elements.musicToggle.addEventListener('click', toggleMusicPanel);
     elements.musicPanelClose.addEventListener('click', closeMusicPanel);
-    elements.musicPlayPause.addEventListener('click', toggleMusicPlayPause);
-    elements.musicStop.addEventListener('click', stopMusic);
-    elements.musicMute.addEventListener('click', toggleMusicMute);
-    elements.musicVolume.addEventListener('input', adjustMusicVolume);
-    elements.musicAutoPlay.addEventListener('change', toggleMusicAutoPlay);
-    elements.musicLoop.addEventListener('change', toggleMusicLoop);
+    if (elements.musicPlayPause) elements.musicPlayPause.addEventListener('click', toggleMusicPlayPause);
+    if (elements.musicStop) elements.musicStop.addEventListener('click', stopMusic);
+    if (elements.musicMute) elements.musicMute.addEventListener('click', toggleMusicMute);
+    if (elements.musicVolume) elements.musicVolume.addEventListener('input', adjustMusicVolume);
+    if (elements.musicAutoPlay) elements.musicAutoPlay.addEventListener('change', toggleMusicAutoPlay);
+    if (elements.musicLoop) elements.musicLoop.addEventListener('change', toggleMusicLoop);
+
+    // Botão mobile para habilitar áudio
+    if (elements.mobileMusicEnable) {
+        elements.mobileMusicEnable.addEventListener('click', () => {
+            musicPlayer.autoPlay = true;
+            localStorage.setItem('ortona-music-autoplay', 'true');
+            if (elements.mobileMusicHint) elements.mobileMusicHint.classList.add('hidden');
+            // Toca imediatamente se já houver trilha para o capítulo
+            playMusic();
+        });
+    }
     
     // Teclado
     document.addEventListener('keydown', handleKeyboard);
@@ -530,6 +544,9 @@ function checkMusicForChapter(chapterNumber) {
         
         if (musicPlayer.autoPlay) {
             playMusic();
+        } else if (elements.mobileMusicHint && window.matchMedia('(max-width: 768px)').matches) {
+            // Mostrar dica no mobile quando há trilha disponível e autoplay desligado
+            elements.mobileMusicHint.classList.remove('hidden');
         }
     } else if (!track && musicPlayer.currentTrack) {
         // Parar música se não há track para este capítulo
@@ -537,6 +554,7 @@ function checkMusicForChapter(chapterNumber) {
         musicPlayer.currentTrack = null;
         elements.currentTrackName.textContent = 'Nenhuma música tocando';
         elements.currentTrackChapters.textContent = 'Capítulos: -';
+        if (elements.mobileMusicHint) elements.mobileMusicHint.classList.add('hidden');
     }
 }
 

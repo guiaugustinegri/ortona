@@ -878,6 +878,36 @@ body {
 }
 
 /* ===== MUSIC PLAYER ===== */
+/* Hint de música no mobile */
+.mobile-music-hint {
+    position: fixed;
+    bottom: 16px;
+    left: 16px;
+    right: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 12px 14px;
+    background: var(--bg-secondary);
+    border: 2px solid var(--olive-drab);
+    border-radius: 8px;
+    box-shadow: 0 6px 20px var(--shadow);
+    z-index: 1100;
+}
+
+.mobile-music-btn {
+    background: var(--olive-drab);
+    color: white;
+    border: 2px solid var(--khaki);
+    border-radius: 6px;
+    padding: 8px 12px;
+    font-weight: bold;
+}
+
+@media (min-width: 769px) {
+    .mobile-music-hint { display: none !important; }
+}
 .music-button {
     background: var(--olive-drab);
     border: 2px solid var(--panzer-gray);
