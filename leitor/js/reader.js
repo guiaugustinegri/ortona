@@ -504,6 +504,11 @@ function initializeMusicPlayer() {
 }
 
 function toggleMusicPanel() {
+    // Em telas pequenas, o botão atua como play/pause rápido
+    if (window.matchMedia('(max-width: 768px)').matches) {
+        toggleMusicPlayPause();
+        return;
+    }
     elements.musicPanel.classList.toggle('hidden');
     elements.musicToggle.classList.toggle('active', !elements.musicPanel.classList.contains('hidden'));
 }

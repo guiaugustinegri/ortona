@@ -759,30 +759,32 @@ body {
     }
     
     .header-content {
-        padding: 0 1rem;
-        flex-direction: column;
-        gap: 1rem;
+        padding: 0.25rem 0.75rem; /* topo bem menor */
+        flex-direction: row;
+        gap: 0.5rem;
     }
     
     .book-title {
-        font-size: 1.5rem;
+        font-size: 1.1rem; /* título pequeno */
+        padding: 0.25rem 0.5rem;
     }
     
     .header-controls {
-        flex-direction: column;
-        gap: 0.5rem;
-        width: 100%;
+        flex-direction: row;
+        gap: 0.25rem;
+        width: auto;
     }
     
     .header-nav {
-        order: 1;
-        justify-content: center;
+        display: none; /* sem anterior/próximo no topo no mobile */
     }
     
     .header-utils {
-        order: 2;
-        justify-content: center;
-        display: none; /* esconder utilitários no mobile para máxima leitura */
+        display: flex; /* mostrar apenas o play da música */
+    }
+
+    .header-utils > :not(#music-toggle) {
+        display: none !important;
     }
     
     .header-nav-button {
@@ -792,15 +794,15 @@ body {
     }
     
     .reader-container {
-        padding: 1rem;
+        padding: 0.75rem;
     }
     
     .chapter-header {
-        padding: 1.5rem 1rem;
+        padding: 1.25rem 0.75rem;
     }
     
     .chapter-title {
-        font-size: 1.8rem;
+        font-size: 1.5rem;
     }
     
     .chapter-text {
