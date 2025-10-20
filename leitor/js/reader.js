@@ -486,7 +486,9 @@ function initializeMusicPlayer() {
     
     // Carregar configurações salvas
     musicPlayer.volume = parseInt(localStorage.getItem('ortona-music-volume') || '50');
-    musicPlayer.autoPlay = localStorage.getItem('ortona-music-autoplay') === 'true';
+    const defaultAutoPlay = READER_CONFIG.settings.defaultMusicAutoPlay === true;
+    const savedAutoPlay = localStorage.getItem('ortona-music-autoplay');
+    musicPlayer.autoPlay = savedAutoPlay !== null ? (savedAutoPlay === 'true') : defaultAutoPlay;
     musicPlayer.loop = localStorage.getItem('ortona-music-loop') !== 'false';
     
     // Aplicar configurações
@@ -540,7 +542,7 @@ function checkMusicForChapter(chapterNumber) {
         
         if (musicPlayer.autoPlay) {
             playMusic();
-        } else if (elements.mobileMusicHint && window.matchMedia('(max-width: 768px)').matches) {
+        } else if (elements.mobileMusicHint) {
             // Mostrar dica no mobile quando há trilha disponível e autoplay desligado
             elements.mobileMusicHint.classList.remove('hidden');
         }

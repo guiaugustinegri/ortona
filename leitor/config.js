@@ -76,7 +76,7 @@ const READER_CONFIG = {
         // Volume padrão da música (0-100)
         defaultMusicVolume: 50,
         // Reproduzir música automaticamente
-        defaultMusicAutoPlay: false,
+        defaultMusicAutoPlay: true,
         // Repetir música
         defaultMusicLoop: true
     }
