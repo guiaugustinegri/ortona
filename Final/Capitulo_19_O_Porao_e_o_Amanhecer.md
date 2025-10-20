@@ -118,7 +118,6 @@ Julian fechou os olhos. Lágrimas descendo.
 
 — Yes — disse James, voz embargada. — It did.
 
----
 
 ### Os Que Ficaram
 Enquanto médicos levavam Julian, Lorenzo caminhou pela praça.
@@ -138,7 +137,6 @@ Enzo assentiu uma vez. Lento. Pesado. Olhar de quem pagou o preço e sabe que va
 Lorenzo devolveu o aceno.
 
 Haviam perdido amigos. Haviam sangrado pela cidade. Mas estavam ali. Vivos.
----
 
 Mais à frente, James encontrou Miller sentado nos escombros do que fora um café. Rádio ao lado. Mãos tremendo. Rosto sujo de fumaça e sangue seco.
 
@@ -167,8 +165,6 @@ Miller fechou os olhos. Lágrimas descendo.
 El Alamein tinha levado metade de sua unidade. Mas Ortona...
 
 Ortona, ele tinha trazido todos de volta.
-
----
 
 ### O Amanhecer
 Levaram Julian para o posto médico improvisado.
