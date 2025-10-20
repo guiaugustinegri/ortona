@@ -12,7 +12,9 @@
     <header class="header">
         <div class="header-content">
             <div class="book-info">
-                <h1 class="book-title">Ortona</h1>
+                <h1 class="book-title">
+                    <a href="capa.html" class="book-title-link">Ortona</a>
+                </h1>
                 <p class="book-subtitle">A Batalha que Mudou Tudo</p>
             </div>
             <div class="header-controls">
@@ -25,6 +27,8 @@
                     </button>
                 </div>
                 <div class="header-utils">
+                    <a href="indice.html" class="header-nav-button" title="Ver índice">📖</a>
+                    <button id="music-toggle" class="music-button" title="Controle de música">♪</button>
                     <button id="reload-chapter" class="reload-button" title="Recarregar capítulo">↻</button>
                     <button id="theme-toggle" class="theme-toggle" title="Alternar tema">
                         <span class="theme-icon">L</span>
@@ -100,7 +104,45 @@
         </div>
     </footer>
 
+    <!-- Music Player Panel -->
+    <div id="music-panel" class="music-panel hidden">
+        <div class="music-panel-header">
+            <h3>Trilha Sonora</h3>
+            <button id="music-panel-close" class="music-panel-close">×</button>
+        </div>
+        <div class="music-panel-content">
+            <div class="current-track">
+                <div class="track-info">
+                    <div class="track-name" id="current-track-name">Nenhuma música tocando</div>
+                    <div class="track-chapters" id="current-track-chapters">Capítulos: -</div>
+                </div>
+                <div class="track-controls">
+                    <button id="music-play-pause" class="music-control-btn">▶</button>
+                    <button id="music-stop" class="music-control-btn">⏹</button>
+                    <button id="music-mute" class="music-control-btn">🔊</button>
+                </div>
+            </div>
+            <div class="volume-control">
+                <label for="music-volume">Volume:</label>
+                <input type="range" id="music-volume" min="0" max="100" value="50">
+                <span id="volume-display">50%</span>
+            </div>
+            <div class="music-settings">
+                <label>
+                    <input type="checkbox" id="music-auto-play"> Tocar automaticamente
+                </label>
+                <label>
+                    <input type="checkbox" id="music-loop"> Repetir música
+                </label>
+            </div>
+        </div>
+        <audio id="background-music" preload="auto" loop>
+            <source src="" type="audio/mpeg">
+        </audio>
+    </div>
+
     <!-- Scripts -->
+    <script src="config.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="js/reader.js"></script>
 </body>

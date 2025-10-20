@@ -1,36 +1,23 @@
 // ===== CONFIGURAÇÃO =====
-const CONFIG = {
-    chaptersPath: '../capitulos-finais V2 - Story/',
-    chapters: [
-        { number: 1, file: 'Capitulo_01_O_Cerco_de_Ortona.md', title: 'O Cerco de Ortona', date: '1943' },
-        { number: 2, file: 'Capitulo_02_Florenca_O_Comeco_da_Ruptura.md', title: 'Florença - O Começo da Ruptura', date: '1943' },
-        { number: 3, file: 'Capitulo_03_O_Reencontro_e_a_Decisao.md', title: 'O Reencontro e a Decisão', date: '1943' },
-        { number: 4, file: 'Capitulo_04_O_Retorno_a_Ortona.md', title: 'O Retorno a Ortona', date: '1943' },
-        { number: 5, file: 'Capitulo_05_O_Bosque.md', title: 'O Bosque', date: '1943' },
-        { number: 6, file: 'Capitulo_06_Canada_A_Guerra_Antes_de_Ortona.md', title: 'Canadá - A Guerra Antes de Ortona', date: '1942' },
-        { number: 7, file: 'Capitulo_07_A_Cacada.md', title: 'A Caçada', date: '1943' },
-        { number: 8, file: 'Capitulo_08_O_Encontro.md', title: 'O Encontro', date: '1943' },
-        { number: 9, file: 'Capitulo_09_A_Resposta_de_Ferro.md', title: 'A Resposta de Ferro', date: '1943' },
-        { number: 10, file: 'Capitulo_10_A_Cidade_sob_Ferro.md', title: 'A Cidade sob Ferro', date: '1943' },
-        { number: 11, file: 'Capitulo_11_A_Missao_Secreta.md', title: 'A Missão Secreta', date: '1943' },
-        { number: 12, file: 'Capitulo_12A_A_Fuga_e_a_Descoberta.md', title: 'A Fuga e a Descoberta', date: '1943' },
-        { number: 13, file: 'Capitulo_12B_A_Captura_e_o_Encontro_Final.md', title: 'A Captura e o Encontro Final', date: '1943' },
-        { number: 14, file: 'Capitulo_13A_O_Retorno_e_a_Humilhacao.md', title: 'O Retorno e a Humilhação', date: '1943' },
-        { number: 15, file: 'Capitulo_13B_O_Mapa_e_a_Paz_Armada.md', title: 'O Mapa e a Paz Armada', date: '1943' },
-        { number: 16, file: 'Capitulo_14A_A_Preparacao_e_a_Explosao.md', title: 'A Preparação e a Explosão', date: '1943' },
-        { number: 17, file: 'Capitulo_14B_A_Corrida_e_o_Rugir.md', title: 'A Corrida e o Rugir', date: '1943' },
-        { number: 18, file: 'Capitulo_15A_A_Fortaleza_e_o_Encontro.md', title: 'A Fortaleza e o Encontro', date: '1943' },
-        { number: 19, file: 'Capitulo_15B_O_Porao_e_o_Amanhecer.md', title: 'O Porão e o Amanhecer', date: '1943' },
-        { number: 20, file: 'Capitulo_16_O_Preco_da_Liberdade.md', title: 'O Preço da Liberdade', date: '1943' },
-        { number: 21, file: 'Capitulo_17_Epilogo_2025.md', title: 'Epílogo 2025', date: '2025' }
-    ]
-};
+// A configuração agora é carregada do arquivo config.js
+// Use READER_CONFIG para acessar as configurações
 
 // ===== ESTADO GLOBAL =====
 let currentChapter = 1;
-let totalChapters = CONFIG.chapters.length;
+let totalChapters = READER_CONFIG.chapters.length;
 let isLoading = false;
 let bookmarks = JSON.parse(localStorage.getItem('ortona-bookmarks') || '[]');
+
+// Estado do player de música
+let musicPlayer = {
+    audio: null,
+    currentTrack: null,
+    isPlaying: false,
+    isMuted: false,
+    volume: 50,
+    autoPlay: false,
+    loop: true
+};
 
 // ===== ELEMENTOS DOM =====
 const elements = {
@@ -53,7 +40,21 @@ const elements = {
     fontSizeDecrease: document.getElementById('font-size-decrease'),
     fontSizeIncrease: document.getElementById('font-size-increase'),
     bookmarkToggle: document.getElementById('bookmark-toggle'),
-    shareChapter: document.getElementById('share-chapter')
+    shareChapter: document.getElementById('share-chapter'),
+    // Elementos do player de música
+    musicToggle: document.getElementById('music-toggle'),
+    musicPanel: document.getElementById('music-panel'),
+    musicPanelClose: document.getElementById('music-panel-close'),
+    musicPlayPause: document.getElementById('music-play-pause'),
+    musicStop: document.getElementById('music-stop'),
+    musicMute: document.getElementById('music-mute'),
+    musicVolume: document.getElementById('music-volume'),
+    volumeDisplay: document.getElementById('volume-display'),
+    musicAutoPlay: document.getElementById('music-auto-play'),
+    musicLoop: document.getElementById('music-loop'),
+    backgroundMusic: document.getElementById('background-music'),
+    currentTrackName: document.getElementById('current-track-name'),
+    currentTrackChapters: document.getElementById('current-track-chapters')
 };
 
 // ===== INICIALIZAÇÃO =====
@@ -93,6 +94,9 @@ function initializeReader() {
     const savedFontSize = localStorage.getItem('ortona-font-size') || '18';
     setFontSize(savedFontSize);
     
+    // Inicializar player de música
+    initializeMusicPlayer();
+    
     // Construir lista de capítulos
     buildChapterList();
     
@@ -123,6 +127,16 @@ function setupEventListeners() {
     elements.bookmarkToggle.addEventListener('click', toggleBookmark);
     elements.shareChapter.addEventListener('click', shareChapter);
     
+    // Player de música
+    elements.musicToggle.addEventListener('click', toggleMusicPanel);
+    elements.musicPanelClose.addEventListener('click', closeMusicPanel);
+    elements.musicPlayPause.addEventListener('click', toggleMusicPlayPause);
+    elements.musicStop.addEventListener('click', stopMusic);
+    elements.musicMute.addEventListener('click', toggleMusicMute);
+    elements.musicVolume.addEventListener('input', adjustMusicVolume);
+    elements.musicAutoPlay.addEventListener('change', toggleMusicAutoPlay);
+    elements.musicLoop.addEventListener('change', toggleMusicLoop);
+    
     // Teclado
     document.addEventListener('keydown', handleKeyboard);
     
@@ -146,10 +160,10 @@ async function loadChapter(chapterNumber, timestamp = null) {
     elements.chapterContent.classList.add('hidden');
     
     try {
-        const chapter = CONFIG.chapters[chapterNumber - 1];
+        const chapter = READER_CONFIG.chapters[chapterNumber - 1];
         const url = timestamp ? 
-            `${CONFIG.chaptersPath}${chapter.file}?t=${timestamp}` : 
-            `${CONFIG.chaptersPath}${chapter.file}`;
+            `${READER_CONFIG.chaptersPath}${chapter.file}?t=${timestamp}` : 
+            `${READER_CONFIG.chaptersPath}${chapter.file}`;
         const response = await fetch(url);
         
         if (!response.ok) {
@@ -176,6 +190,9 @@ async function loadChapter(chapterNumber, timestamp = null) {
         updateChapterList();
         updateProgress();
         updateBookmarkButton();
+        
+        // Verificar música para o capítulo atual
+        checkMusicForChapter(currentChapter);
         
         // Esconder loading e mostrar conteúdo
         elements.loading.classList.add('hidden');
@@ -217,7 +234,7 @@ function reloadCurrentChapter() {
     
     // Adicionar timestamp para forçar recarregamento
     const timestamp = new Date().getTime();
-    const chapter = CONFIG.chapters.find(c => c.number === currentChapter);
+    const chapter = READER_CONFIG.chapters.find(c => c.number === currentChapter);
     
     if (chapter) {
         loadChapter(currentChapter, timestamp);
@@ -227,7 +244,7 @@ function reloadCurrentChapter() {
 function buildChapterList() {
     elements.chapterList.innerHTML = '';
     
-    CONFIG.chapters.forEach((chapter, index) => {
+    READER_CONFIG.chapters.forEach((chapter, index) => {
         const li = document.createElement('li');
         li.className = 'chapter-item';
         
@@ -328,7 +345,7 @@ function updateBookmarkButton() {
 
 // ===== COMPARTILHAMENTO =====
 function shareChapter() {
-    const chapter = CONFIG.chapters[currentChapter - 1];
+    const chapter = READER_CONFIG.chapters[currentChapter - 1];
     const url = `${window.location.origin}${window.location.pathname}#chapter-${currentChapter}`;
     const text = `Leia o capítulo "${chapter.title}" do livro Ortona`;
     
@@ -435,7 +452,7 @@ window.addEventListener('load', () => {
 if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
     setInterval(async () => {
         try {
-            const chapter = CONFIG.chapters[currentChapter - 1];
+            const chapter = READER_CONFIG.chapters[currentChapter - 1];
             const response = await fetch(`${CONFIG.chaptersPath}${chapter.file}`, { method: 'HEAD' });
             if (response.ok) {
                 const lastModified = response.headers.get('Last-Modified');
@@ -448,4 +465,132 @@ if (window.location.hostname === 'localhost' || window.location.hostname === '12
             // Ignorar erros de verificação
         }
     }, 5000);
+}
+
+// ===== PLAYER DE MÚSICA =====
+function initializeMusicPlayer() {
+    musicPlayer.audio = elements.backgroundMusic;
+    
+    // Carregar configurações salvas
+    musicPlayer.volume = parseInt(localStorage.getItem('ortona-music-volume') || '50');
+    musicPlayer.autoPlay = localStorage.getItem('ortona-music-autoplay') === 'true';
+    musicPlayer.loop = localStorage.getItem('ortona-music-loop') !== 'false';
+    
+    // Aplicar configurações
+    elements.musicVolume.value = musicPlayer.volume;
+    elements.volumeDisplay.textContent = `${musicPlayer.volume}%`;
+    elements.musicAutoPlay.checked = musicPlayer.autoPlay;
+    elements.musicLoop.checked = musicPlayer.loop;
+    
+    // Configurar áudio
+    musicPlayer.audio.volume = musicPlayer.volume / 100;
+    musicPlayer.audio.loop = musicPlayer.loop;
+    
+    // Event listeners do áudio
+    musicPlayer.audio.addEventListener('play', () => {
+        musicPlayer.isPlaying = true;
+        updateMusicControls();
+    });
+    
+    musicPlayer.audio.addEventListener('pause', () => {
+        musicPlayer.isPlaying = false;
+        updateMusicControls();
+    });
+    
+    musicPlayer.audio.addEventListener('ended', () => {
+        musicPlayer.isPlaying = false;
+        updateMusicControls();
+    });
+}
+
+function toggleMusicPanel() {
+    elements.musicPanel.classList.toggle('hidden');
+    elements.musicToggle.classList.toggle('active', !elements.musicPanel.classList.contains('hidden'));
+}
+
+function closeMusicPanel() {
+    elements.musicPanel.classList.add('hidden');
+    elements.musicToggle.classList.remove('active');
+}
+
+function checkMusicForChapter(chapterNumber) {
+    if (!READER_CONFIG.musicConfig.enabled) return;
+    
+    const track = READER_CONFIG.musicConfig.tracks.find(t => t.chapters.includes(chapterNumber));
+    
+    if (track && track !== musicPlayer.currentTrack) {
+        musicPlayer.currentTrack = track;
+        musicPlayer.audio.src = track.file;
+        elements.currentTrackName.textContent = track.name;
+        elements.currentTrackChapters.textContent = `Capítulos: ${track.chapters.join(', ')}`;
+        
+        if (musicPlayer.autoPlay) {
+            playMusic();
+        }
+    } else if (!track && musicPlayer.currentTrack) {
+        // Parar música se não há track para este capítulo
+        stopMusic();
+        musicPlayer.currentTrack = null;
+        elements.currentTrackName.textContent = 'Nenhuma música tocando';
+        elements.currentTrackChapters.textContent = 'Capítulos: -';
+    }
+}
+
+function toggleMusicPlayPause() {
+    if (musicPlayer.isPlaying) {
+        pauseMusic();
+    } else {
+        playMusic();
+    }
+}
+
+function playMusic() {
+    if (musicPlayer.currentTrack && musicPlayer.audio.src) {
+        musicPlayer.audio.play().catch(error => {
+            console.log('Erro ao reproduzir música:', error);
+        });
+    }
+}
+
+function pauseMusic() {
+    musicPlayer.audio.pause();
+}
+
+function stopMusic() {
+    musicPlayer.audio.pause();
+    musicPlayer.audio.currentTime = 0;
+    musicPlayer.isPlaying = false;
+    updateMusicControls();
+}
+
+function toggleMusicMute() {
+    musicPlayer.isMuted = !musicPlayer.isMuted;
+    musicPlayer.audio.muted = musicPlayer.isMuted;
+    updateMusicControls();
+}
+
+function adjustMusicVolume() {
+    musicPlayer.volume = parseInt(elements.musicVolume.value);
+    musicPlayer.audio.volume = musicPlayer.volume / 100;
+    elements.volumeDisplay.textContent = `${musicPlayer.volume}%`;
+    localStorage.setItem('ortona-music-volume', musicPlayer.volume);
+}
+
+function toggleMusicAutoPlay() {
+    musicPlayer.autoPlay = elements.musicAutoPlay.checked;
+    localStorage.setItem('ortona-music-autoplay', musicPlayer.autoPlay);
+}
+
+function toggleMusicLoop() {
+    musicPlayer.loop = elements.musicLoop.checked;
+    musicPlayer.audio.loop = musicPlayer.loop;
+    localStorage.setItem('ortona-music-loop', musicPlayer.loop);
+}
+
+function updateMusicControls() {
+    elements.musicPlayPause.textContent = musicPlayer.isPlaying ? '⏸' : '▶';
+    elements.musicMute.textContent = musicPlayer.isMuted ? '🔇' : '🔊';
+    
+    elements.musicPlayPause.classList.toggle('active', musicPlayer.isPlaying);
+    elements.musicMute.classList.toggle('active', musicPlayer.isMuted);
 }

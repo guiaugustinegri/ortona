@@ -51,8 +51,8 @@ Uma mulher falava, voz baixa. Olhar firme. Parecia ser ouvida.
 
 Era uma resistência — confusa, nervosa, sem direção. Mas era resistência.
 
-### ⚡ O Encontro
-Lorenzo saiu primeiro da mata. Não com armas. Com presença.
+### O Encontro
+Lorenzo saiu primeiro da mata. Com presença.
 
 — Não parem — disse ele, calmo. — Continuem o que estavam fazendo.
 
@@ -68,7 +68,7 @@ O silêncio ficou pesado.
 
 Ele caminhou até mais perto do fogo. Todos recuaram meio passo sem perceber.
 
-### 👶 O Reconhecimento
+### O Reconhecimento
 — Duas crianças que viviam sujas de terra — disse a mulher, lentamente o reconhecendo. — Que sumiam por horas e voltavam com arranhões e histórias que ninguém acreditava…
 
 Os olhos dela arregalaram.
@@ -138,13 +138,13 @@ Lorenzo apertou a mão dele. Era firme. Real.
 
 — Seu pai me ensinou a não desistir quando as ondas ficavam altas demais. — Enzo olhou ao redor, para o grupo reunido. — Se vocês são metade do que ele foi... — Fez uma pausa. — Então lutam ao nosso lado.
 
-### 💥 O Interrompimento
+### O Interrompimento
 Antes que Lorenzo pudesse responder, um som cortou o bosque.
 
+TAC
+
 Tiro.
-
 Depois outro.
-
 Depois uma rajada curta.
 
----
+

@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ortona - Índice</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        .index-container {
+            min-height: 100vh;
+            background: var(--bg-primary);
+            padding: 2rem 0;
+        }
+        
+        .index-header {
+            background: linear-gradient(135deg, var(--olive-drab), var(--olive-drab-dark));
+            color: white;
+            padding: 3rem 0;
+            text-align: center;
+            margin-bottom: 3rem;
+            border-bottom: 4px solid var(--navy-blue);
+        }
+        
+        .index-title {
+            font-family: var(--font-sans);
+            font-size: 2.5rem;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+        
+        .index-subtitle {
+            font-size: 1.1rem;
+            color: var(--khaki);
+            font-style: italic;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+        }
+        
+        .index-content {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+        
+        .chapter-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 3rem;
+        }
+        
+        .chapter-card {
+            background: var(--bg-secondary);
+            border: 2px solid var(--border);
+            border-radius: 8px;
+            padding: 1.5rem;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            text-decoration: none;
+            color: inherit;
+            box-shadow: 0 2px 8px var(--shadow);
+        }
+        
+        .chapter-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 16px var(--shadow);
+            border-color: var(--accent);
+        }
+        
+        .chapter-number {
+            font-family: var(--font-sans);
+            font-size: 0.9rem;
+            color: var(--accent);
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 0.5rem;
+        }
+        
+        .chapter-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: var(--text-primary);
+            line-height: 1.4;
+        }
+        
+        .chapter-date {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            font-style: italic;
+        }
+        
+        .index-actions {
+            text-align: center;
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border);
+        }
+        
+        .action-buttons {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        
+        .action-button {
+            background: var(--navy-blue);
+            color: white;
+            border: 2px solid var(--khaki);
+            padding: 1rem 2rem;
+            border-radius: 4px;
+            text-decoration: none;
+            font-family: var(--font-sans);
+            font-size: 1rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            transition: all 0.3s ease;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+        }
+        
+        .action-button:hover {
+            background: var(--luftwaffe-blue);
+            border-color: var(--luftwaffe-blue-light);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+        }
+        
+        .action-button.primary {
+            background: var(--olive-drab);
+            border-color: var(--olive-drab-light);
+        }
+        
+        .action-button.primary:hover {
+            background: var(--forest-green);
+            border-color: var(--forest-green);
+        }
+        
+        .progress-section {
+            background: var(--bg-secondary);
+            border: 2px solid var(--border);
+            border-radius: 8px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+        
+        .progress-title {
+            font-family: var(--font-sans);
+            font-size: 1.3rem;
+            color: var(--text-primary);
+            margin-bottom: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .progress-bar {
+            height: 8px;
+            background: var(--border);
+            border-radius: 4px;
+            overflow: hidden;
+            margin-bottom: 1rem;
+        }
+        
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, var(--olive-drab), var(--olive-drab-light));
+            width: 0%;
+            transition: width 0.3s ease;
+        }
+        
+        .progress-text {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+        
+        @media (max-width: 768px) {
+            .index-title {
+                font-size: 2rem;
+            }
+            
+            .chapter-grid {
+                grid-template-columns: 1fr;
+                gap: 1rem;
+            }
+            
+            .action-buttons {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            .action-button {
+                width: 100%;
+                max-width: 300px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="index-container">
+        <div class="index-header">
+            <h1 class="index-title">Índice</h1>
+            <p class="index-subtitle">Ortona - A Batalha que Mudou Tudo</p>
+        </div>
+        
+        <div class="index-content">
+            <div class="progress-section">
+                <h2 class="progress-title">Progresso de Leitura</h2>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progress-fill"></div>
+                </div>
+                <p class="progress-text" id="progress-text">0 de 21 capítulos lidos</p>
+            </div>
+            
+            <div class="chapter-grid" id="chapter-grid">
+                <!-- Capítulos serão carregados dinamicamente -->
+            </div>
+            
+            <div class="index-actions">
+                <div class="action-buttons">
+                    <a href="capa.html" class="action-button">Voltar à Capa</a>
+                    <a href="index.html" class="action-button primary">Começar Leitura</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="config.js"></script>
+    <script>
+        // Usar a configuração do config.js
+        const CONFIG = READER_CONFIG;
+        
+        function buildChapterGrid() {
+            const grid = document.getElementById('chapter-grid');
+            grid.innerHTML = '';
+            
+            CONFIG.chapters.forEach(chapter => {
+                const card = document.createElement('a');
+                card.href = `index.html?chapter=${chapter.number}`;
+                card.className = 'chapter-card';
+                
+                card.innerHTML = `
+                    <div class="chapter-number">Capítulo ${chapter.number}</div>
+                    <div class="chapter-title">${chapter.title}</div>
+                    <div class="chapter-date">${chapter.date}</div>
+                `;
+                
+                grid.appendChild(card);
+            });
+        }
+        
+        function updateProgress() {
+            // Simular progresso baseado no localStorage
+            const readChapters = JSON.parse(localStorage.getItem('ortona-read-chapters') || '[]');
+            const progress = (readChapters.length / CONFIG.chapters.length) * 100;
+            
+            document.getElementById('progress-fill').style.width = `${progress}%`;
+            document.getElementById('progress-text').textContent = 
+                `${readChapters.length} de ${CONFIG.chapters.length} capítulos lidos`;
+        }
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            buildChapterGrid();
+            updateProgress();
+        });
+    </script>
+</body>
+</html>

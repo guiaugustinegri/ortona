@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ortona - Capa</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        .cover-container {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(135deg, var(--olive-drab-dark), var(--olive-drab), var(--navy-blue));
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .cover-container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-image: 
+                radial-gradient(circle at 20% 20%, rgba(255,255,255,0.1) 0%, transparent 50%),
+                radial-gradient(circle at 80% 80%, rgba(0,0,0,0.2) 0%, transparent 50%),
+                linear-gradient(45deg, transparent 25%, rgba(255,255,255,0.05) 25%, rgba(255,255,255,0.05) 50%, transparent 50%, transparent 75%, rgba(255,255,255,0.05) 75%);
+            background-size: 100% 100%, 100% 100%, 20px 20px;
+            animation: coverPattern 20s linear infinite;
+        }
+        
+        @keyframes coverPattern {
+            0% { transform: translateX(0) translateY(0); }
+            100% { transform: translateX(-20px) translateY(-20px); }
+        }
+        
+        .cover-content {
+            text-align: center;
+            color: white;
+            z-index: 2;
+            position: relative;
+            max-width: 800px;
+            padding: 2rem;
+        }
+        
+        .cover-title {
+            font-family: var(--font-sans);
+            font-size: 4rem;
+            font-weight: bold;
+            margin-bottom: 1rem;
+            text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7);
+            letter-spacing: 4px;
+            text-transform: uppercase;
+            border: 3px solid var(--khaki);
+            padding: 2rem;
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 8px;
+            margin-bottom: 2rem;
+        }
+        
+        .cover-subtitle {
+            font-size: 1.5rem;
+            margin-bottom: 2rem;
+            font-style: italic;
+            color: var(--khaki);
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+            letter-spacing: 2px;
+        }
+        
+        .cover-description {
+            font-size: 1.2rem;
+            line-height: 1.6;
+            margin-bottom: 3rem;
+            color: var(--khaki-light);
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .cover-buttons {
+            display: flex;
+            gap: 2rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        
+        .cover-button {
+            background: var(--navy-blue);
+            color: white;
+            border: 2px solid var(--khaki);
+            padding: 1rem 2rem;
+            border-radius: 4px;
+            text-decoration: none;
+            font-family: var(--font-sans);
+            font-size: 1.1rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            transition: all 0.3s ease;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+            min-width: 200px;
+        }
+        
+        .cover-button:hover {
+            background: var(--luftwaffe-blue);
+            border-color: var(--luftwaffe-blue-light);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+        }
+        
+        .cover-button.primary {
+            background: var(--olive-drab);
+            border-color: var(--olive-drab-light);
+        }
+        
+        .cover-button.primary:hover {
+            background: var(--forest-green);
+            border-color: var(--forest-green);
+        }
+        
+        .cover-meta {
+            margin-top: 3rem;
+            font-size: 0.9rem;
+            color: var(--khaki);
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+        }
+        
+        @media (max-width: 768px) {
+            .cover-title {
+                font-size: 2.5rem;
+                padding: 1.5rem;
+                letter-spacing: 2px;
+            }
+            
+            .cover-subtitle {
+                font-size: 1.2rem;
+            }
+            
+            .cover-description {
+                font-size: 1rem;
+            }
+            
+            .cover-buttons {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            .cover-button {
+                width: 100%;
+                max-width: 300px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="cover-container">
+        <div class="cover-content">
+            <h1 class="cover-title">Ortona</h1>
+            <p class="cover-subtitle">A Batalha que Mudou Tudo</p>
+            <p class="cover-description">
+                Em dezembro de 1943, a pequena cidade italiana de Ortona se tornou o palco de uma das batalhas mais brutais da Segunda Guerra Mundial. 
+                Conhecida como "Little Stalingrad", a batalha urbana testou os limites da humanidade e da sobrevivência.
+            </p>
+            <div class="cover-buttons">
+                <a href="index.html" class="cover-button primary">Começar a Leitura</a>
+                <a href="indice.html" class="cover-button">Ver Índice</a>
+            </div>
+            <div class="cover-meta">
+                <p>Romance Histórico • 2025</p>
+                <p>Baseado em eventos reais da Batalha de Ortona</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

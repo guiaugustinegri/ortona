@@ -95,7 +95,7 @@ James respondeu:
 
 — Não existe "nada" onde existem pessoas tentando sobreviver.
 
-### 🚢 Destino
+### Destino
 Quando zarparam em um cargueiro improvisado pelas forças aliadas, ninguém aplaudiu. Não houve discurso. Não houve despedida. Missões como essa não iam para os jornais.
 
 E enquanto o navio cortava o Atlântico rumo à Itália em silêncio, James Walker ficou sozinho no convés olhando para o nada.
@@ -108,4 +108,3 @@ Vontade. Movimento. Consequência.
 E naquela noite gelada, encarando o horizonte negro, ele sabia de uma coisa sem saber como:
 
  A vida dele ia mudar em Ortona.
----
